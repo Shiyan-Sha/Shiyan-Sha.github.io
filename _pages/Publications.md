@@ -159,7 +159,7 @@ Research Papers
     <div>
       <div class="title"><a href="https://kns.cnki.net/kcms2/article/abstract?v=f1ZyUc11mdpLmdmLn36iDuD3xMoT0DHr8HmGn7E80y97tPlyyn-t_rpAv6V_4nqKnsz8ykOZOclF3m3aNr6J8F2Ilw6F3FPoduiy2356-GrdER6bc4Krlt3-7LaHeQN_8N4o3oU6bJI=&uniplatform=NZKPT&language=CHS">[8] The Inspirations of Action-Oriented Social Infrastructure Regeneration Practices: A Case Study of Bayside City, Australia</a></div>
       <div class="author">Ming Lu, <strong>Shiyan Sha(Corresponding Author)</strong>, Qi Cheng</div>
-      <div class="periodical"><em><strong>(Urban Planning International)</strong>, Nov 2023.</em></div>
+      <div class="periodical"><em><strong>(Urban Planning International(In Chinese))</strong>, Nov 2023.</em></div>
       <div class="links">
         <a href="https://navi.cnki.net/knavi/journals/GWCG/detail?uniplatform=NZKPT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
         <strong><i style="color:#7b5aa6">CSSCI (IF=4.7)</i></strong>
