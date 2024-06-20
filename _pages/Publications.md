@@ -23,7 +23,7 @@ Research Papers
 
   <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px;">
     <div>
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0197397523002515">[1] Building a “reservoir of social resilience:”</a></div>
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0197397523002515">[1] Building a “reservoir of social resilience:” A strategy for social infrastructure regeneration in shrinking cities based on social network analysis</a></div>
       <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu(Corresponding Author)</div>
        <div class="periodical"><em><strong>(Habitat International)</strong>, Volume 143, January 2024, 102991.</em></div>
       <div class="links">
