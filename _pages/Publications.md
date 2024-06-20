@@ -169,6 +169,24 @@ Research Papers
 </div>
 ---
 
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
+    <img src="/images/1. UPI.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="https://link.springer.com/article/10.1007/s11356-023-29130-3">[9] Effects of thermal environment and air quality on outdoor thermal comfort in urban parks of Tianjin, China</a></div>
+      <div class="author">Guangmeng Bian, Xiangyu Gao, Qishu Zou, Qi Cheng, Tianyi Sun, <strong>Shiyan Sha</strong>, Meng Zhen(Corresponding Author)</div>
+      <div class="periodical"><em><strong>(Environmental Science and Pollution Research)</strong>, Under Review.</em></div>
+      <div class="links">
+        <a href="https://link.springer.com/journal/11356" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <strong><i style="color:#7b5aa6">SCI JCR Q1 (IF=5.8)</i></strong>
+      </div>
+    </div>
+  </div>
+</div>
+---
 
 Conference Papers
 ======
