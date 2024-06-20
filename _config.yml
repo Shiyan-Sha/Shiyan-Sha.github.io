@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shiyan Sha / Homepage"
+title                    : "Qi Cheng / Homepage"
 title_separator          : "-"
-name                     : &name "Shiyan Sha"
+name                     : &name "Qi Cheng"
 description              : &description "personal description"
 url                      : https://QiCheng-2024.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,22 +22,22 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "SSY.png"
-  name             : "Shiyan Sha"
-  pronouns         : #"he/his"  
+  name             : "Qi Cheng"
+  pronouns         : #"she/her"  
   bio              : "Based on humanity, society, geography, and city, contemplating the evolving world, beings, and ourselves."
   location         : "China"
   employer         : "Harbin Institute of Techonlogy"
   uri              : # URL
-  email            : "shashiyan@stu.hit.edu.cn" 
+  email            : "qicheng@stu.hit.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=0l-R7oMAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-1228-4269"
+  orcid            : "https://orcid.org/0000-0002-2786-4955"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Shiyan-Sha"
+  researchgate     : "https://www.researchgate.net/profile/Qi-Cheng-54"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
