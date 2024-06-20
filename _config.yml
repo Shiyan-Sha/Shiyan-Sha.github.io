@@ -14,7 +14,7 @@ name                     : &name "Shiyan-Sha"
 description              : &description "personal description"
 url                      : https://QiCheng-2024.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://shiyan-sha.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,22 +22,22 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "images/WechatIMG1989.png"
-  name             : "Qi Cheng"
+  name             : "Shiyan-Sha"
   pronouns         : #"she/her"  
-  bio              : "Based on Climate change, society, geography, and city, contemplating the evolving world, beings, and ourselves."
+  bio              : "Based on humanity, society, geography, and city, contemplating the evolving world, beings, and ourselves."
   location         : "China"
   employer         : "Harbin Institute of Techonlogy"
   uri              : # URL
-  email            : "qicheng@stu.hit.edu.cn" 
+  email            : "shashiyan@stu.hit.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=0l-R7oMAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=0l-R7oMAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-2786-4955"
+  orcid            : "https://orcid.org/0000-0003-1228-4269"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Qi-Cheng-54"
+  researchgate     : "https://www.researchgate.net/profile/Shiyan-Sha"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
