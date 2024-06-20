@@ -131,6 +131,25 @@ Research Papers
 </div>
 ---
 
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
+    <img src="/images/japg2.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="">[7] Last defense in climate change: Assessing healthcare inequities in response to compound environmental risk in a megacity in Northern China</a></div>
+      <div class="author">Qi Cheng, <strong>Shiyan Sha(Co-first/Corresponding Author)</strong></div>
+      <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Under Review.</em></div>
+      <div class="links">
+        <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <strong><i style="color:#7b5aa6">SCI JCR Q1 (IF=11.7)</i></strong>
+      </div>
+    </div>
+  </div>
+</div>
+---
+
 Conference Papers
 ======
 <div class="pub-row" style="display: flex; align-items: center; margin-bottom: 40px;">
