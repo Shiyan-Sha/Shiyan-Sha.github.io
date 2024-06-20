@@ -150,6 +150,26 @@ Research Papers
 </div>
 ---
 
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
+    <img src="/images/1. UPI.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="https://kns.cnki.net/kcms2/article/abstract?v=f1ZyUc11mdpLmdmLn36iDuD3xMoT0DHr8HmGn7E80y97tPlyyn-t_rpAv6V_4nqKnsz8ykOZOclF3m3aNr6J8F2Ilw6F3FPoduiy2356-GrdER6bc4Krlt3-7LaHeQN_8N4o3oU6bJI=&uniplatform=NZKPT&language=CHS">[8] The Inspirations of Action-Oriented Social Infrastructure Regeneration Practices: A Case Study of Bayside City, Australia</a></div>
+      <div class="author">Ming Lu, <strong>Shiyan Sha(Corresponding Author)</strong>, Qi Cheng</div>
+      <div class="periodical"><em><strong>(Urban Planning International)</strong>, Under Review.</em></div>
+      <div class="links">
+        <a href="https://navi.cnki.net/knavi/journals/GWCG/detail?uniplatform=NZKPT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <strong><i style="color:#7b5aa6">SCI JCR Q1 (IF=11.7)</i></strong>
+      </div>
+    </div>
+  </div>
+</div>
+---
+
+
 Conference Papers
 ======
 <div class="pub-row" style="display: flex; align-items: center; margin-bottom: 40px;">
