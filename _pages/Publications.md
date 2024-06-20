@@ -114,7 +114,7 @@ Research Papers
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
-    <img src="/images/japg.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+    <img src="/images/japg2.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
