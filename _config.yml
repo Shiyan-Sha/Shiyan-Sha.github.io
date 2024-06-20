@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shiyan-Sha / Homepage"
+title                    : "Shiyan Sha / Homepage"
 title_separator          : "-"
-name                     : &name "Shiyan-Sha"
+name                     : &name "Shiyan Sha"
 description              : &description "personal description"
 url                      : #https://QiCheng-2024.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "https://shiyan-sha.github.io/"
 author:
   # Biographic information
   avatar           : "SSY.png"
-  name             : "Shiyan-Sha"
+  name             : "Shiyan Sha(沙世琰)"
   pronouns         : #"she/her"  
   bio              : "Based on humanity, society, geography, and city, contemplating the evolving world, beings, and ourselves."
   location         : "China"
