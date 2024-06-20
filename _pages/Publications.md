@@ -237,7 +237,64 @@ Conference Papers
     <div>
       <div class="title"><a href="">[3] Characteristics of "Flash Mob" behavior and cultural transmission in public space based on an inclusive perspective- Evidence from Tianjin City, China</a></div>
       <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu, Wen Cheng</div>
-      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>, Oct 2023.</em></div>
+      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
+      <div class="links">
+        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
+        <strong><i style="color:#7b5aa6">Presentation</i></strong>
+      </div>
+    </div>
+  </div>
+</div>
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
+    <img src="/images/C6.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="">[4] Equity-oriented research on the characteristics of socio-spatial differentiation and governance strategies in shrinking cities</a></div>
+      <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu, Wen Cheng</div>
+      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
+      <div class="links">
+        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
+        <strong><i style="color:#7b5aa6">Presentation</i></strong>
+      </div>
+    </div>
+  </div>
+</div>
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
+    <img src="/images/C7.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="">[5] Improving social resilience in shrinking cities through social infrastructure regeneration- A investigation from Hegang, China</a></div>
+      <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu, Wen Cheng</div>
+      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
+      <div class="links">
+        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
+        <strong><i style="color:#7b5aa6">Presentation</i></strong>
+      </div>
+    </div>
+  </div>
+</div>
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
+    <img src="/images/C8.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="">[6] Spatial Distribution and Usage Characteristics of "Workers’ Harbor" from the Perspective of Opening and Sharing- A Case Study from Tianjin, China</a></div>
+      <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu, Wen Cheng</div>
+      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
         <strong><i style="color:#7b5aa6">Presentation</i></strong>
