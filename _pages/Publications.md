@@ -55,6 +55,25 @@ Research Papers
 </div>
 ---
 
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
+    <img src="/images/ufug.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1618866724001730">[3] Determining the effects of green space usage on health inequalities among residents of shrinking cities based on a social capital perspective</a></div>
+      <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng(Corresponding Author)</div>
+      <div class="periodical"><em><strong>(Urban Forestry & Urban Greening)</strong>, Volume 94, April 2024, 128267.</em></div>
+      <div class="links">
+        <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <strong><i style="color:#7b5aa6">SSCI/SCI JCR Q1 (IF=6.4)</i></strong>
+      </div>
+    </div>
+  </div>
+</div>
+---
+
 Conference Papers
 ======
 <div class="pub-row" style="display: flex; align-items: center; margin-bottom: 40px;">
