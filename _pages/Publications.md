@@ -235,7 +235,7 @@ Conference Papers
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="https://isocarp.org/app/uploads/2023/05/ISOCARP_2022_Meng_ISO319.pdf">[3] Characteristics of "Flash Mob" behavior and cultural transmission in public space based on an inclusive perspective- Evidence from Tianjin City, China</a></div>
+      <div class="title"><a href="https://Shiyan-Sha.github.io/files/5. Characteristics of "Flash Mob" behavior and cultural transmission in public space based on an inclusive perspective- Evidence from Tianjin City, China.pdf">[3] Characteristics of "Flash Mob" behavior and cultural transmission in public space based on an inclusive perspective- Evidence from Tianjin City, China</a></div>
       <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu, Wen Cheng</div>
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>, Oct 2023.</em></div>
       <div class="links">
