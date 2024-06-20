@@ -197,7 +197,8 @@ Conference Papers
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="https://link.springer.com/article/10.1007/s11356-023-29130-3">[1] 3. Differentiation of family medical resources use of "new citizens" from the perspective of health equity</a></div>
+      <div class="title"><a href="https://Shiyan-Sha.github.io/files
+/3. Differentiation of family medical resources use of "new citizens" from the perspective of health equity.pdf">[1] 3. Differentiation of family medical resources use of "new citizens" from the perspective of health equity</a></div>
       <div class="author"><strong>Shiyan Sha</strong>, Ming Lu, Qinghe Meng, Linghai Xuan</div>
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 58th)</strong>, Oct 2023.</em></div>
       <div class="links">
