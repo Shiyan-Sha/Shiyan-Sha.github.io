@@ -54,13 +54,12 @@ Research Papers
 </div>
 ---
 
-<div class="pub-row" style="display: flex; align-items: flex-start; margin-bottom: 40px;">
+<div class="pub-row" style="display: flex; align-items: center; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="position: relative; padding-left: 0px;">
     <img src="/images/11. habitat.png" class="teaser img-fluid z-depth-1" style="width: 200px; height: auto; margin-right:20px; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
 
-  <div class="col-sm-9" style="display: flex; align-items: flex-start; padding-left: 0px;">
-    <div style="max-width: calc(100% - 220px);">
+  <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px;">
       <div class="title" style="word-wrap: break-word;"><a href="https://www.sciencedirect.com/science/article/pii/S0197397523002515">[1] Building a “reservoir of social resilience:” A strategy for social infrastructure regeneration in shrinking cities based on social network analysis</a></div>
       <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu(Corresponding Author)</div>
       <div class="periodical"><em><strong>(Habitat International)</strong>, Volume 143, January 2024, 102991.</em></div>
