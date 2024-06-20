@@ -162,7 +162,7 @@ Research Papers
       <div class="periodical"><em><strong>(Urban Planning International)</strong>, Under Review.</em></div>
       <div class="links">
         <a href="https://navi.cnki.net/knavi/journals/GWCG/detail?uniplatform=NZKPT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
-        <strong><i style="color:#7b5aa6">SCI JCR Q1 (IF=11.7)</i></strong>
+        <strong><i style="color:#7b5aa6">CSSCI (IF=4.7)</i></strong>
       </div>
     </div>
   </div>
