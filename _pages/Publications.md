@@ -112,6 +112,24 @@ Research Papers
 </div>
 ---
 
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
+    <img src="/images/japg.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0143622823002187">[6] Revealing the heterogeneity of social capital in shrinking cities from a social infrastructure perspective: Evidence from Hegang, China</a></div>
+      <div class="author">Qi Cheng, <strong>Shiyan Sha(Corresponding Author)</strong>, Wen Cheng</div>
+      <div class="periodical"><em><strong>(Applied Geography)</strong>, Volume 159, October 2023, 103087.</em></div>
+      <div class="links">
+        <a href="https://www.sciencedirect.com/journal/applied-geography" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <strong><i style="color:#7b5aa6">SSCI JCR Q1 (IF=4.9)</i></strong>
+      </div>
+    </div>
+  </div>
+</div>
+---
 
 Conference Papers
 ======
