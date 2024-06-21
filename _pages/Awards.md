@@ -27,7 +27,6 @@ During my graduate studies, through continuous exploration, I have contributed t
        </div> 
       <div class="author"><strong>Reviewer</strong>, (SCI JCR Q1 IF=11.7)</div>
       <strong><i style="color:#7b5aa6">May 2024</i></strong>
-      
     </div>
-  </div>
+
 
