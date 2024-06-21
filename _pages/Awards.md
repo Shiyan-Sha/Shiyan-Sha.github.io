@@ -24,7 +24,7 @@ Review Activities
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title">[1] Building a “reservoir of social resilience:” A strategy for social infrastructure regeneration in shrinking cities based on social network analysis</a></div>
+      <div class="title">Building a “reservoir of social resilience:” A strategy for social infrastructure regeneration in shrinking cities based on social network analysis></div>
       <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu(Corresponding Author)</div>
       </div>
     </div>
