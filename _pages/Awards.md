@@ -29,4 +29,18 @@ During my graduate studies, through continuous exploration, I have contributed t
       <strong><i style="color:#7b5aa6">May 2024</i></strong>
     </div>
 
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
+    <img src="/images/11. habitat.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society"><strong>Sustainable Cities and Society</strong></a></div>
+    </div> 
+    <div class="author"><strong>Reviewer</strong>, (SCI JCR Q1 IF=11.7)</div>
+    <strong><i style="color:#7b5aa6">May 2024</i></strong>
+  </div>
+</div>
 
