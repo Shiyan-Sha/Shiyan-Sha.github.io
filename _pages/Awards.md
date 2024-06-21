@@ -52,7 +52,7 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/journal/heliyon"><strong>Heliyon</strong></a></div>
     </div> 
-    <div class="author"><strong>Reviewer</strong> SSCI (JCR Q1 IF=4.8)</div>
+    <div class="author"><strong>Reviewer</strong> SCI (JCR Q2 IF=4.0)</div>
     <strong><i style="color:#7b5aa6">Mar 2024</i></strong>
   </div>
 </div>
