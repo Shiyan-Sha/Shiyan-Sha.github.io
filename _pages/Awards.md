@@ -24,10 +24,10 @@ Review Activities
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title">Building a “reservoir of social resilience:” A strategy for social infrastructure regeneration in shrinking cities based on social network analysis></div>
+      <div class="title">Building a “reservoir of social resilience:” A strategy for social infrastructure regeneration in shrinking cities based on social network analysis</div>
       <div class="author"><strong>Shiyan Sha</strong></div>
       </div>
     </div>
   </div>
-
+</div>
 
