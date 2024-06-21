@@ -28,6 +28,32 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
     <strong><i style="color:#7b5aa6">May 2024</i></strong>
   </div>
 </div>
+---
 
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
+    <img src="/images/JHAP.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="https://www.sciencedirect.com/journal/health-and-place"><strong>Health & Place</strong></a></div>
+    </div> 
+    <div class="author"><strong>Reviewer</strong> SSCI (JCR Q1 IF=4.8)</div>
+    <strong><i style="color:#7b5aa6">Nov 2023</i></strong>
+  </div>
+</div>
+---
 
-
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
+    <img src="/images/HLY.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="https://www.sciencedirect.com/journal/heliyon"><strong>Heliyon</strong></a></div>
+    </div> 
+    <div class="author"><strong>Reviewer</strong> SSCI (JCR Q1 IF=4.8)</div>
+    <strong><i style="color:#7b5aa6">Mar 2024</i></strong>
+  </div>
+</div>
+---
