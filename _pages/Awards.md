@@ -98,22 +98,22 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
 ---
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
-  <!-- 左侧列，放置第一个图片 -->
+  <!-- Left column for the first image -->
   <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
     <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
 
-  <!-- 右侧列，放置第二个图片 -->
-  <div class="col-sm-3 abbr" style="flex: 0 0 300px; padding-left: 0;">
-    <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
-  </div>
-
-  <!-- 主要内容列 -->
-  <div class="col-sm-6">
+  <!-- Right column for the second image and text description -->
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <!-- First image -->
+    <div style="margin-bottom: 20px;">
+      <img src="/images/second_image.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+    </div>
+ <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society"><strong>Research Report on Integrated Urban and Rural Social Practice for Urban and Rural Planning Majors of Higher Education Institutions in China</strong></a></div>
     </div> 
-    <div class="competition-description">
+      <div class="competition-description">
       <i>这项竞赛。。。</i>
     </div>
     <strong><i style="color:#c02c38">Second Price</i></strong>
@@ -121,4 +121,5 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
     <strong><i style="color:#7b5aa6">Oct 2019</i></strong>
   </div>
 </div>
+
 
