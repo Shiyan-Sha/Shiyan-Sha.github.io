@@ -96,3 +96,34 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
   </div>
 </div>
 ---
+
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <!-- Left column for the first image -->
+  <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
+    <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <!-- Right column for details and new image -->
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <!-- Title of the publication with a link -->
+      <div class="title"><a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society"><strong>Research Report on Integrated Urban and Rural Social Practice for Urban and Rural Planning Majors of Higher Education Institutions in China</strong></a></div>
+    </div> 
+    <div class="competition-description">
+      <!-- Description of the competition or publication -->
+      <i>这项竞赛。。。</i>
+    </div>
+    <!-- Award or prize details -->
+    <strong><i style="color:#c02c38">Second Price</i></strong>
+    <!-- Author details -->
+    <div class="author"><strong>Shiyan Sha</strong>, et al.</div>
+    <!-- Publication date -->
+    <strong><i style="color:#7b5aa6">Oct 2019</i></strong>
+
+    <!-- New image section -->
+    <div style="margin-top: 20px;">
+      <img src="/images/profile.png" class="img-fluid" style="max-width: 100%; height: auto;">
+    </div>
+  </div>
+</div>
