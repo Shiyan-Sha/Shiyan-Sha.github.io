@@ -55,13 +55,13 @@ During my undergraduate studies, I participated in several important research-or
 Research Fundings
 ======
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-  
-[1] National Natural Science Foundation of China (Mar 2023)
- </div>
-Research on the mechanism influencing the supply and demand of ecosystem services and spatial optimisation pathway of urban green infrastructure: a case study of Northeast China (52078160)
- </div>
- <strong><i style="color:#7b5aa6">Participation and Funding</i></strong>
-  
+ <div class="title"><strong>National Natural Science Foundation of China</strong></a></div>
+    </div> 
+      <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
+      <i>Research on the mechanism influencing the supply and demand of ecosystem services and spatial optimisation pathway of urban green infrastructure: a case study of Northeast China (52078160)</i>
+    </div>
+    <strong><i style="color:#c02c38">Participation and Funding</i></strong>
+    <strong><i style="color:#7b5aa6">Mar 2023</i></strong>
  </div>
 ---
 
