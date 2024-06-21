@@ -81,14 +81,14 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
-    <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+    <img src="/images/zzw2.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society"><strong>Research Report on Integrated Urban and Rural Social Practice for Urban and Rural Planning Majors of Higher Education Institutions in China</strong></a></div>
     </div> 
       <div class="competition-description">
-      <i>这项竞赛。。。</i>
+      <i>As China's urbanization moves towards high-quality development, "Opening and Sharing" is crucial for rejuvenating public service facilities in large cities. Since 2018, Tianjin has opened resources like banks to provide services such as dining and rest for outdoor workers, aiming to meet social needs through shared spaces. However, policy-led initiatives have shown uneven spatial and temporal distribution, failing to fully align with workers' needs.Based on a study of the spatial-temporal distribution of a central urban "worker port," this research focuses on a typical example in Nankai District, Tianjin. Utilizing literature review, interviews, surveys, sentiment-semantic analysis, and network analysis, it analyzes the disparity between workers' daily operational needs and the spatial distribution and functional provisions of the port. By understanding the psychological characteristics of outdoor workers, the study aims to propose recommendations for planning and managing the worker port to enhance shared quality.</i>
     </div>
     <strong><i style="color:#c02c38">Second Price</i></strong>
     <div class="author"><strong>Shiyan Sha</strong>, et al.</div>
@@ -97,29 +97,5 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
 </div>
 ---
 
-<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
-  <!-- Left column for the first image -->
-  <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
-    <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
-  </div>
-
-  <!-- Right column for the second image and text description -->
-  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
-    <!-- First image -->
-    <div style="margin-bottom: 20px;">
-      <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
-    </div>
- <div class="col-sm-9" style="flex: 1; padding-left: 0;">
-    <div>
-      <div class="title"><a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society"><strong>Research Report on Integrated Urban and Rural Social Practice for Urban and Rural Planning Majors of Higher Education Institutions in China</strong></a></div>
-    </div> 
-      <div class="competition-description">
-      <i>这项竞赛。。。</i>
-    </div>
-    <strong><i style="color:#c02c38">Second Price</i></strong>
-    <div class="author"><strong>Shiyan Sha</strong>, et al.</div>
-    <strong><i style="color:#7b5aa6">Oct 2019</i></strong>
-  </div>
-</div>
 
 
