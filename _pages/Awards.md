@@ -85,7 +85,7 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><strong>Research Report on Integrated Urban and Rural Social Practice for Urban and Rural Planning Majors of Higher Education Institutions in China</strong></a></div>
+      <div class="title"><a href="https://mp.weixin.qq.com/s/hTRGQEfiXvmw44A-KXyVnw"><strong>Research Report on Integrated Urban and Rural Social Practice for Urban and Rural Planning Majors of Higher Education Institutions in China</strong></a></div>
     </div> 
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
       <i>China's urbanization emphasis on high-quality development highlights the importance of "Opening and Sharing" to rejuvenate public service facilities in large cities. Since 2018, Tianjin has opened resources such as banks to offer dining and rest services for outdoor workers, aiming to fulfill social needs through shared spaces. However, policy initiatives have shown uneven distribution over time and space, failing to fully meet workers' needs. This research examines a central urban worker port in Nankai District, Tianjin, analyzing discrepancies between workers' operational needs and the port's spatial distribution and functions. Through methods like literature review, interviews, surveys, sentiment-semantic analysis, and network analysis, it aims to propose recommendations for improving the planning and management of worker ports to enhance shared quality.</i>
