@@ -24,7 +24,7 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society"><strong>Sustainable Cities and Society</strong></a></div>
     </div> 
-    <div class="author"><strong>Reviewer</strong> SCI (JCR Q1 IF=11.7)</div>
+    <div class="author"><strong>Reviewer</strong>, SCI (JCR Q1 IF=11.7)</div>
     <strong><i style="color:#7b5aa6">May 2024</i></strong>
   </div>
 </div>
@@ -38,7 +38,7 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/journal/health-and-place"><strong>Health & Place</strong></a></div>
     </div> 
-    <div class="author"><strong>Reviewer</strong> SSCI (JCR Q1 IF=4.8)</div>
+    <div class="author"><strong>Reviewer</strong>, SSCI (JCR Q1 IF=4.8)</div>
     <strong><i style="color:#7b5aa6">Nov 2023</i></strong>
   </div>
 </div>
@@ -52,7 +52,7 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/journal/heliyon"><strong>Heliyon</strong></a></div>
     </div> 
-    <div class="author"><strong>Reviewer</strong> SCI (JCR Q2 IF=4.0)</div>
+    <div class="author"><strong>Reviewer</strong>, SCI (JCR Q2 IF=4.0)</div>
     <strong><i style="color:#7b5aa6">Mar 2024</i></strong>
   </div>
 </div>
@@ -71,10 +71,11 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society"><strong>Sustainable Cities and Society</strong></a></div>
+      <div class="title"><a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society"><strong>Research Report on Integrated Urban and Rural Social Practice for Urban and Rural Planning Majors of Higher Education Institutions in China</strong></a></div>
     </div> 
-    <div class="author"><strong>Reviewer</strong> SCI (JCR Q1 IF=11.7)</div>
-    <strong><i style="color:#7b5aa6">May 2024</i></strong>
+     <strong><i style="color:#7b5aa6">Second Price</i></strong>
+    <div class="author"><strong>Shiyan Sha, et al.</strong></div>
+    <strong><i style="color:#7b5aa6">Oct 2019</i></strong>
   </div>
 </div>
 ---
