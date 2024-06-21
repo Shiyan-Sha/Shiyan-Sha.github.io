@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Review Activities
+Reviewer Certificates
 ======
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
 During my graduate studies, I served multiple times as a reviewer for prestigious journals. These valuable experiences have given me a clearer understanding of how to conceptualize and write research papers. I have also applied my reviewing experience to enhance the quality of my own research.
