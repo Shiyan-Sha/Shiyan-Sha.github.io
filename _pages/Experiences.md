@@ -22,7 +22,7 @@ During my undergraduate studies, I participated in several important research-or
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="https://mp.weixin.qq.com/s/hTRGQEfiXvmw44A-KXyVnw"><strong>Participated in the writing and editing of the book “Science of City” (In Chinese)</strong></a></div>
+      <div class="title"><strong>Participated in the writing and editing of the book “Science of City” (In Chinese)</strong></div>
     </div> 
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
       <i>I contributed to the editing of the book “Science of City", which is a textbook to fill in the intermediate level (applied theory) of the urban science system and was selected as a textbook for urban and rural planning majors of the National Urban and Rural Planning Programme of the "14th Five-Year Plan". I was responsible for data collection, writing and editing, including chapters on urbanisation, laws of urban development, urban social systems, rural planning strategies, etc., and participated in the writing of about 100,000 words.</i>
