@@ -75,7 +75,7 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
     </div> 
      <strong><i style="color:#7b5aa6">Second Price</i></strong>
     <div class="author"><strong>Shiyan Sha, et al.</strong></div>
-    <strong><i style="color:#7b5aa6">Oct 2019</i></strong>
+    <strong><i style="color:#fde6e0">Oct 2019</i></strong>
   </div>
 </div>
 ---
