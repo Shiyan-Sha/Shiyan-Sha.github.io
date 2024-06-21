@@ -108,8 +108,8 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
       <i>China's urbanization emphasis on high-quality development highlights the importance of "Opening and Sharing" to rejuvenate public service facilities in large cities. Since 2018, Tianjin has opened resources such as banks to offer dining and rest services for outdoor workers, aiming to fulfill social needs through shared spaces. However, policy initiatives have shown uneven distribution over time and space, failing to fully meet workers' needs. This research examines a central urban worker port in Nankai District, Tianjin, analyzing discrepancies between workers' operational needs and the port's spatial distribution and functions. Through methods like literature review, interviews, surveys, sentiment-semantic analysis, and network analysis, it aims to propose recommendations for improving the planning and management of worker ports to enhance shared quality.</i>
     </div>
-    <strong><i style="color:#c02c38">Second Price</i></strong>
-    <div class="author"><strong>Shiyan Sha (First Author)</strong>, et al.</div>
+    <strong><i style="color:#c02c38">Third Price</i></strong>
+    <div class="author"><strong>Shiyan Sha (First Author)</strong>, Shunli Zhao.</div>
     <strong><i style="color:#7b5aa6">Oct 2019</i></strong>
   </div>
 </div>
