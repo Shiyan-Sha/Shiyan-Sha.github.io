@@ -29,7 +29,5 @@ Review Activities
       </div>
     </div>
   </div>
-</div>
----
 
 
