@@ -25,8 +25,9 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
       <div class="title"><a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society"><strong>Sustainable Cities and Society</strong></a></div>
     </div> 
     <div class="author"><strong>Reviewer</strong></div>
-    <strong><i>SCI JCR Q1 IF=11.7</i></strong>
-    <i style="color:#7b5aa6">May 2024</i>
+    
+    <i>SCI JCR Q1 IF=11.7</i>
+    <strong><i style="color:#7b5aa6">May 2024</i></strong>
   </div>
 </div>
 
