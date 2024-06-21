@@ -73,9 +73,9 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society"><strong>Research Report on Integrated Urban and Rural Social Practice for Urban and Rural Planning Majors of Higher Education Institutions in China</strong></a></div>
     </div> 
-     <strong><i style="color:#7b5aa6">Second Price</i></strong>
+     <strong><i style="color:#fde6e0">Second Price</i></strong>
     <div class="author"><strong>Shiyan Sha, et al.</strong></div>
-    <strong><i style="color:#fde6e0">Oct 2019</i></strong>
+    <strong><i style="color:#7b5aa6">Oct 2019</i></strong>
   </div>
 </div>
 ---
