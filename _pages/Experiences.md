@@ -65,3 +65,32 @@ Research Fundings
 
 ---
 
+<div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
+    <div class="title">[2]<strong>Project of Humanities and Social Sciences Research Planning Fund, Ministry of Education</strong></div>
+</div> 
+<div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
+    <i>A study on the social integration of aboriginal people in the revival process of historic neighbourhoods (16YJA840010)</i>
+</div>
+<strong><i style="color:#c02c38">Participation and Funded (Mar 2023)</i></strong>
+
+---
+
+<div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
+    <div class="title">[3]<strong>Project of Humanities and Social Sciences Research Planning Fund, Ministry of Education</strong></div>
+</div> 
+<div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
+    <i>Study on spatial and temporal characteristics and inheritance paths of settlement spaces along the tianjin section of the grand canal(22YJC760135)</i>
+</div>
+<strong><i style="color:#c02c38">Participation and Funded (Sep 2022)</i></strong>
+
+---
+
+<div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
+    <div class="title">[4]<strong>National Foreign Experts Programme, Ministry of Science and Technology</strong></div>
+</div> 
+<div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
+    <i>"Belt and Road" innovation and talent exchange programme for foreign experts (DL2022170002L)</i>
+</div>
+<strong><i style="color:#c02c38">Participation and Funded (Sep 2022)</i></strong>
+
+---
