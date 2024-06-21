@@ -23,8 +23,8 @@ During my graduate studies, through continuous exploration, I have contributed t
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title">Building a “reservoir of social resilience:” A strategy for social infrastructure regeneration in shrinking cities based on social network analysis</div>
-      <div class="author"><strong>Shiyan Sha</strong></div>
+      <div class="title">Sustainable Cities and Society</div>
+      <div class="author"><strong>Reviewer</strong>(SCI JCR Q1 IF=11.7)</div>
       </div>
     </div>
   </div>
