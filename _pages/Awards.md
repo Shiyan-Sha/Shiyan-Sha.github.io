@@ -107,7 +107,7 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <!-- First image -->
     <div style="margin-bottom: 20px;">
-      <img src="/images/second_image.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+      <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
     </div>
  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
