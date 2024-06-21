@@ -25,7 +25,7 @@ During my graduate studies, through continuous exploration, I have contributed t
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0197397523002515"><strong>Sustainable Cities and Society</strong></div>
       <div class="author"><strong>Reviewer</strong>, (SCI JCR Q1 IF=11.7)</div>
-      <div class="time">May 2024</i></div>
+      <strong><i style="color:#7b5aa6">May 2024</i></strong>
       </div>
     </div>
   </div>
