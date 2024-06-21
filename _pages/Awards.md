@@ -19,13 +19,13 @@ Review Activities
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
-    <img src="/images/11. habitat.png" class="teaser img-fluid z-depth-1" style="width: 150%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+    <img src="/images/11. habitat.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title">Building a “reservoir of social resilience:” A strategy for social infrastructure regeneration in shrinking cities based on social network analysis></div>
-      <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu(Corresponding Author)</div>
+      <div class="author"><strong>Shiyan Sha</strong></div>
       </div>
     </div>
   </div>
