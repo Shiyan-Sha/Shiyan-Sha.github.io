@@ -76,12 +76,31 @@ Research Papers
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
+    <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="">[4] Last defense in climate change: Assessing healthcare inequities in response to compound environmental risk in a megacity in Northern China</a></div>
+      <div class="author">Qi Cheng, <strong>Shiyan Sha(Co-first/Corresponding Author)</strong></div>
+      <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Under Review.</em></div>
+      <div class="links">
+        <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <strong><i style="color:#7b5aa6">SCI JCR Q1 (IF=11.7)</i></strong>
+      </div>
+    </div>
+  </div>
+</div>
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
     <img src="/images/scs.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S2210670724002944">[4] Revealing the injustice and factors that affect the resilience responses of residents in the full period of heat waves</a></div>
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S2210670724002944">[5] Revealing the injustice and factors that affect the resilience responses of residents in the full period of heat waves</a></div>
       <div class="author">Qi Cheng, <strong>Shiyan Sha(Corresponding Author)</strong></div>
       <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Volume 107, 15 July 2024, 105467.</em></div>
       <div class="links">
@@ -100,7 +119,7 @@ Research Papers
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0143622824000961">[5] Resisting the heat wave: Revealing inequalities in matching between heat exposure risk and healthcare services in a megacity</a></div>
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0143622824000961">[6] Resisting the heat wave: Revealing inequalities in matching between heat exposure risk and healthcare services in a megacity</a></div>
       <div class="author">Qi Cheng, <strong>Shiyan Sha(Corresponding Author)</strong></div>
       <div class="periodical"><em><strong>(Applied Geography)</strong>, Volume 167, June 2024, 103291.</em></div>
       <div class="links">
@@ -119,31 +138,12 @@ Research Papers
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0143622823002187">[6] Revealing the heterogeneity of social capital in shrinking cities from a social infrastructure perspective: Evidence from Hegang, China</a></div>
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0143622823002187">[7] Revealing the heterogeneity of social capital in shrinking cities from a social infrastructure perspective: Evidence from Hegang, China</a></div>
       <div class="author">Qi Cheng, <strong>Shiyan Sha(Corresponding Author)</strong>, Wen Cheng</div>
       <div class="periodical"><em><strong>(Applied Geography)</strong>, Volume 159, October 2023, 103087.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/applied-geography" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
         <strong><i style="color:#7b5aa6">SSCI JCR Q1 (IF=4.9)</i></strong>
-      </div>
-    </div>
-  </div>
-</div>
----
-
-<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
-  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
-    <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
-  </div>
-
-  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
-    <div>
-      <div class="title"><a href="">[7] Last defense in climate change: Assessing healthcare inequities in response to compound environmental risk in a megacity in Northern China</a></div>
-      <div class="author">Qi Cheng, <strong>Shiyan Sha(Co-first/Corresponding Author)</strong></div>
-      <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Under Review.</em></div>
-      <div class="links">
-        <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
-        <strong><i style="color:#7b5aa6">SCI JCR Q1 (IF=11.7)</i></strong>
       </div>
     </div>
   </div>
