@@ -14,7 +14,7 @@ During my graduate studies, through continuous exploration, I have contributed t
  </div>
 ---
 
-Research Papers
+Journal Articles
 ======
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
