@@ -46,7 +46,6 @@ In the process of participating in social activities such as paper presentations
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Activity</a>
   </div>
 </div>
-
 ---
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
@@ -63,7 +62,6 @@ In the process of participating in social activities such as paper presentations
         <a href="https://www.urbanstudiesfoundation.org/events/grassroots-infrastructures-and-urban-social-reproduction/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Activity</a>
   </div>
 </div>
-
 ---
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
@@ -78,7 +76,6 @@ In the process of participating in social activities such as paper presentations
     <div><strong><i style="color:#7b5aa6">Jun 2023 - Aug 2023</i></strong></div>
   </div>
 </div>
-
 ---
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
@@ -93,5 +90,4 @@ In the process of participating in social activities such as paper presentations
     <div><strong><i style="color:#7b5aa6">Jul 2022 - Aug 2022</i></strong></div>
   </div>
 </div>
-
 ---
