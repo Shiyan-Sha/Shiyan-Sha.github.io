@@ -108,7 +108,7 @@ During my undergraduate studies, I participated in several important research-or
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
       <i>In this research-based project, our team selected a historic and cultural district in Liaocheng, Shandong Province, China. We conducted an in-depth, month-long investigation, focusing on various aspects such as social structure, public spaces and economic development. Based on our findings, we proposed a 'co-creation and co-governance' micro-renewal strategy to revitalise the cultural vitality of the area.</i>
     </div>
-    <strong><i style="color:#c02c38">Third Price</i></strong>
+     <div class="prize"><a href="https://mp.weixin.qq.com/s/hTRGQEfiXvmw44A-KXyVnw"><strong><i style="color:#c02c38">Third Price</i></strong></a></div>
     <div class="author"><strong>Shiyan Sha (First Author)</strong>, Shunli Zhao.</div>
     <strong><i style="color:#7b5aa6">Oct 2019</i></strong>
   </div>
