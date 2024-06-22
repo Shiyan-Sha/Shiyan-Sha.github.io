@@ -20,7 +20,7 @@ During my undergraduate studies, I participated in several important research-or
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><strong>Member of ISOCARP International Society of City and Regional Planners</strong></div>
+      <div class="title"><a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society"><strong>Member of ISOCARP International Society of City and Regional Planners</strong></a></div>
     </div> 
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
       <i>I have presented papers at ISOCARP 58th and 59th conferences a total of 5 times. This has allowed me to share my research with like-minded people all over the world.</i>
