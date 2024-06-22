@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-I am a student at the School of Architecture and Design, Harbin Institute of Technology, and have obtained a Master's degree in Urban and Rural Planning. Under the guidance of <a href="http://homepage.hit.edu.cn/luming" style="text-decoration: none; color: inherit;">Professor Ming Lu</a>, <a href="https://www.researchgate.net/scientific-contributions/Guangmeng-Bian-2148025468" style="text-decoration: none; color: inherit;">Associate Professor Guangmeng Bian</a> and <a href="https://gr.xjtu.edu.cn/en/web/zhenmeng" style="text-decoration: none; color: inherit;">Associate Professor Meng Zhen</a>, I have made significant achievements in research over the past three years. My interests have gradually shifted to interdisciplinary areas such as climate change, health equity, social resilience and social infrastructure renewal. Together with collaborators and research teams, I have contributed to several notable research publications.
+I am a student at the School of Architecture and Design, Harbin Institute of Technology, and have obtained a Master's degree in Urban and Rural Planning. Under the guidance of Professor Ming Lu, Associate Professor Guangmeng Bian and Associate Professor Meng Zhen, I have made significant achievements in research over the past three years. My interests have gradually shifted to interdisciplinary areas such as climate change, health equity, social resilience and social infrastructure renewal. Together with collaborators and research teams, I have contributed to several notable research publications.
  </div>
  
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
@@ -21,9 +21,9 @@ Research Interests
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
 My research interests have evolved in three stages. Initially, I focused on the impact of global urbanisation on socio-environmental conditions in depopulated areas. In my second year, I explored the health and social justice issues of vulnerable residents living in environmentally disadvantaged areas. Finally, in my third year, I began to examine policies for climate change adaptation, health equity and the governance of urban regeneration. Each stage of research has taken me from building social resilience in response to environmental change to specific studies of residents' health and policy implications.
  </div>
+---
 
-
-<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 80px;">
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 400px; margin-right: 40px; padding-left: 0;">
     <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 400px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
