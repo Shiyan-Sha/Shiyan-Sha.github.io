@@ -8,13 +8,8 @@ redirect_from:
 ---
 
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-I am a student at the School of Architecture and Design, Harbin Institute of Technology, and have obtained a Master's degree in Urban and Rural Planning. Over the past three years, my interests have gradually shifted to interdisciplinary areas such as climate change, health equity, social resilience and social infrastructure renewal. Together with collaborators and research teams, I have contributed to several notable research publications.
+I am a student at the School of Architecture and Design, Harbin Institute of Technology, and have obtained a Master's degree in Urban and Rural Planning. Over the past three years, my interests have gradually shifted to interdisciplinary areas such as climate change, health equity, social resilience and social infrastructure renewal. Together with collaborators and research teams, I have contributed to several notable research publications.These engaging research experiences have equipped me with extensive social survey skills and enhanced my spatial analysis skills. Through field investigations and ongoing discussions with peers, I have developed critical thinking skills, rigorous research methods and innovative thinking.
  </div>
- 
-<div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-These engaging research experiences have equipped me with extensive social survey skills and enhanced my spatial analysis skills. Through field investigations and ongoing discussions with peers, I have developed critical thinking skills, rigorous research methods and innovative thinking.
- </div>
-
 
 Research Interests
 ======
@@ -95,6 +90,12 @@ Education
             <div>
                 <p class="highlight">Core Modules:</p>
                 <p>Planning Design Research (88); Urban Planning Theory (93); Application of Geographic Information and Remote Sensing Analysis (88); Design Research (95)</p>
+            </div>
+        </section>
+       <section class="row">
+            <div>
+                <p class="highlight">Collaborating Supervisors:</p>
+                <p><a href="http://homepage.hit.edu.cn/luming">Professor Ming Lu</a><a href="https://gr.xjtu.edu.cn/en/web/zhenmeng">Associate Professor Meng Zhen</a></p>
             </div>
         </section>
     </div>
