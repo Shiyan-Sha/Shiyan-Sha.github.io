@@ -31,6 +31,7 @@ During my undergraduate studies, I participated in several important research-or
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/habitat-international" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Activity</a>
   </div>
+ </div>
 </div>
 ---
 
