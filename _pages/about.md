@@ -95,7 +95,7 @@ Education
        <section class="row">
             <div>
                 <p class="highlight">Collaborating Supervisors:</p>
-                <p><a href="http://homepage.hit.edu.cn/luming">Professor Ming Lu</a><a href="https://gr.xjtu.edu.cn/en/web/zhenmeng">Associate Professor Meng Zhen</a></p>
+                <p><a href="http://homepage.hit.edu.cn/luming">Professor Ming Lu</a>, <a href="https://gr.xjtu.edu.cn/en/web/zhenmeng">Associate Professor Meng Zhen</a></p>
             </div>
         </section>
     </div>
