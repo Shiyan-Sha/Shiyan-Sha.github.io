@@ -66,8 +66,7 @@ Education
 <body>
     <div class="container">
         <section class="row">
-            <div>
-                <p class="highlight">Harbin Institute of Technology</p>
+            <p class="highlight"> <a href="http://en.hit.edu.cn">Harbin Institute of Technology</a></p>   
             </div>
             <div>
                 <p>Sept 2021 - Mar 2024</p>
@@ -125,7 +124,7 @@ Education
     <div class="container">
         <section class="row">
             <div>
-                <p class="highlight">Hebei University of Technology</p>
+                <p class="highlight"> <a href="https://eweb.hebut.edu.cn">Hebei University of Technology</a></p>      
             </div>
             <div>
                 <p>Sept 2016 - Jun 2021</p>
