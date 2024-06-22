@@ -25,8 +25,6 @@ Average score: 86.9/100
 Honor: First-class Scholarship; Outstanding Student Award; Excellent Dissertation Proposal
 Core Modules: Planning Design Research (88); Urban Planning Theory (93); Application of Geographic Information and Remote Sensing Analysis (88); Design Research (95)
 
-<!DOCTYPE html>
-<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -61,30 +59,28 @@ Core Modules: Planning Design Research (88); Urban Planning Theory (93); Applica
     <div class="container">
         <div class="row">
             <div>
-                <p class="highlight">哈尔滨工业大学</p>
-                <p>(985 工程 & 211 工程 / "双一流")</p>
+                <p class="highlight">Harbin Institute of Technology</p>
             </div>
             <div>
-                <p>2021年9月 - 2024年3月</p>
-                <p>哈尔滨, 中国</p>
+                <p>Sept. 2021 - Mar. 2024</p>
             </div>
         </div>
         <div class="row">
             <div>
-                <p>城市与农村规划硕士</p>
-                <p>平均分: 86.9/100</p>
+                <p>Master of Philosophy in Urban and rural planning</p>
+                <p>Average score: 86.9/100</p>
             </div>
         </div>
         <div class="row">
             <div>
-                <p class="highlight">获奖情况:</p>
-                <p>一等奖学金, 优秀学生奖, 优秀论文提案奖</p>
+                <p class="highlight">Honor:</p>
+                <p>First-class Scholarship; Outstanding Student Award; Excellent Dissertation Proposal</p>
             </div>
         </div>
         <div class="row">
             <div>
-                <p class="highlight">核心课程:</p>
-                <p>规划设计研究 (88), 城市规划理论 (93), 地理信息与遥感分析应用 (88), 设计研究 (95)</p>
+                <p class="highlight">Core Modules:</p>
+                <p>Planning Design Research (88); Urban Planning Theory (93); Application of Geographic Information and Remote Sensing Analysis (88); Design Research (95)</p>
             </div>
         </div>
     </div>
