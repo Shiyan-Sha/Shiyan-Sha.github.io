@@ -42,6 +42,8 @@ In the process of participating in social activities such as paper presentations
     </div> 
     <i>I presented a total of five conference papers at two World Planning Conferences, and the presentation of these papers allowed me to communicate with researchers from all over the world.</i>
     <div><strong><i style="color:#7b5aa6">Oct 2022 & Oct 2023</i></strong></div>
+       <div class="links">
+        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Activity</a>
   </div>
 </div>
 
@@ -57,6 +59,8 @@ In the process of participating in social activities such as paper presentations
     </div> 
     <i>I attended a summer camp organized by the Urban Studies Foundation on social infrastructure and the production of space, which broadened my understanding and perspective of urban socio-spatial theory and practice.</i>
     <div><strong><i style="color:#7b5aa6">May 2024</i></strong></div>
+       <div class="links">
+        <a href="https://www.urbanstudiesfoundation.org/events/grassroots-infrastructures-and-urban-social-reproduction/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Activity</a>
   </div>
 </div>
 
