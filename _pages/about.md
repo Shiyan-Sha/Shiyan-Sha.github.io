@@ -63,7 +63,7 @@ Education
         </section>
         <section class="row">
             <div>
-                <p>Master of Philosophy in Urban and rural planning (Average score: 86.9/100)</p>
+                <p>Master of Philosophy in Urban and rural planning <i>(Average score: 86.9/100)</i></p>
             </div>
         </section>
         <section class="row">
