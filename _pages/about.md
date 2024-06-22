@@ -20,37 +20,6 @@ During my graduate studies, through continuous exploration, I have contributed t
 Education
 ======
 
-<div class="container">
-    <div class="row">
-        <div>
-            <p class="highlight">Harbin Institute of Technology</p>
-        </div>
-        <div>
-            <p>Sept 2021 - Mar 2024</p>
-        </div>
-    </div>
-    <div class="row">
-        <div>
-            <p>Master of Philosophy in Urban and rural planning</p>
-            <p>Average score: 86.9/100</p>
-        </div>
-    </div>
-    <div class="row">
-        <div>
-            <p class="highlight">Honor:</p>
-            <p>First-class Scholarship; Outstanding Student Award; Excellent Dissertation Proposal</p>
-        </div>
-    </div>
-    <div class="row">
-        <div>
-            <p class="highlight">Core Modules:</p>
-            <p>Planning Design Research (88); Urban Planning Theory (93); Application of Geographic Information and Remote Sensing Analysis (88); Design Research (95)</p>
-        </div>
-    </div>
-</div>
-
----
-
 <style>
     body {
         font-family: Arial, sans-serif;
@@ -69,7 +38,7 @@ Education
     .row {
         display: flex;
         justify-content: space-between;
-        margin-bottom: 5px; /* 调整行与行之间的间距 */
+        margin-bottom: 0px; /* 调整行与行之间的间距 */
     }
     .highlight {
         font-weight: bold;
