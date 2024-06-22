@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -52,12 +51,12 @@ Education
             padding: 15px;
             border-radius: 8px;
             /* Add margin bottom to create space between the container and the next element */
-            margin-bottom: 10px; /* Adjust as needed */
+            margin-bottom: 15px; /* Adjust as needed */
         }
         .row {
             display: flex;
             justify-content: space-between;
-            margin-bottom: 2px;
+            margin-bottom: 5px;
         }
         .highlight {
             font-weight: bold;
@@ -126,7 +125,7 @@ Education
         .row {
             display: flex;
             justify-content: space-between;
-            margin-bottom: 2px;
+            margin-bottom: 5px;
         }
         .highlight {
             font-weight: bold;
