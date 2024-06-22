@@ -40,35 +40,21 @@ Core Modules: Planning Design Research (88); Urban Planning Theory (93); Applica
             padding: 0;
         }
         .container {
-            max-width: 800px;
+            max-width: 600px;
             margin: 20px auto;
             background: #fff;
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        h1, h2, h3 {
-            color: #333;
+        .row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
         }
-        .header {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-        .content {
-            margin-bottom: 20px;
-        }
-        .content p {
-            margin: 10px 0;
-        }
-        .modules {
-            list-style-type: none;
-            padding: 0;
-        }
-        .modules li {
-            background: #e9ecef;
-            margin: 5px 0;
-            padding: 10px;
-            border-radius: 4px;
+        .column {
+            display: flex;
+            flex-direction: column;
         }
         .highlight {
             font-weight: bold;
@@ -78,31 +64,28 @@ Core Modules: Planning Design Research (88); Urban Planning Theory (93); Applica
 </head>
 <body>
     <div class="container">
-        <div class="header">
-            <h1>教育背景与成就</h1>
-            <h2>哈尔滨工业大学 (985 工程 & 211 工程 / "双一流")</h2>
-            <h3>城市与农村规划硕士 (2021年9月 - 2024年3月)</h3>
-            <h3>哈尔滨, 中国</h3>
+        <div class="row">
+            <div class="column">
+                <p class="highlight">哈尔滨工业大学</p>
+                <p>(985 工程 & 211 工程 / "双一流")</p>
+            </div>
+            <div class="column">
+                <p>2021年9月 - 2024年3月</p>
+                <p>哈尔滨, 中国</p>
+            </div>
         </div>
-        <div class="content">
-            <p><span class="highlight">平均分:</span> 86.9/100</p>
-            <p><span class="highlight">荣誉:</span></p>
-            <ul>
-                <li>一等奖学金</li>
-                <li>优秀学生奖</li>
-                <li>优秀论文提案奖</li>
-            </ul>
+        <div class="row">
+            <p>城市与农村规划硕士</p>
+            <p>平均分: 86.9/100</p>
         </div>
-        <div class="content">
-            <p><span class="highlight">核心课程:</span></p>
-            <ul class="modules">
-                <li>规划设计研究: 88</li>
-                <li>城市规划理论: 93</li>
-                <li>地理信息与遥感分析应用: 88</li>
-                <li>设计研究: 95</li>
-            </ul>
+        <div class="row">
+            <p class="highlight">获奖情况:</p>
+            <p>一等奖学金, 优秀学生奖, 优秀论文提案奖</p>
+        </div>
+        <div class="row">
+            <p class="highlight">核心课程:</p>
+            <p>规划设计研究 (88), 城市规划理论 (93), 地理信息与遥感分析应用 (88), 设计研究 (95)</p>
         </div>
     </div>
 </body>
 </html>
-
