@@ -20,6 +20,23 @@ During my undergraduate studies, I participated in several important research-or
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
+      <div class="title"><strong>Member of ISOCARP International Society of City and Regional Planners</strong></div>
+    </div> 
+    <strong><i style="color:#c02c38">ISOCARP</i></strong>
+    <strong><i style="color:#7b5aa6">Jun 2023 - Jun 2024</i></strong>
+      <div class="links">
+        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Activity</a>
+  </div>
+ </div>
+</div>
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
+    <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
       <div class="title"><a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society"><strong>Member of ISOCARP International Society of City and Regional Planners</strong></a></div>
     </div> 
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
@@ -33,4 +50,3 @@ During my undergraduate studies, I participated in several important research-or
  </div>
 </div>
 ---
-
