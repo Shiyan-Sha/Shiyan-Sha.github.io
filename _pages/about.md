@@ -28,22 +28,22 @@ Education
     <style>
         body {
             font-family: Arial, sans-serif;
-            line-height: 1;
+            line-height: 1.2;
             background-color: #f4f4f4;
             margin: 0;
-            padding: 10px;
+            padding: 15px;
         }
         .container {
             max-width: 800px;
             margin: 0 auto;
             background: #fff;
-            padding: 10px;
+            padding: 15px;
             border-radius: 8px;
         }
         .row {
             display: flex;
             justify-content: space-between;
-            margin-bottom: 5px;
+            margin-bottom: 2px;
         }
         .highlight {
             font-weight: bold;
@@ -95,19 +95,19 @@ Education
             line-height: 1;
             background-color: #f4f4f4;
             margin: 0;
-            padding: 10px;
+            padding: 15px;
         }
         .container {
             max-width: 800px;
             margin: 0 auto;
             background: #fff;
-            padding: 10px;
+            padding: 15px;
             border-radius: 8px;
         }
         .row {
             display: flex;
             justify-content: space-between;
-            margin-bottom: 5px;
+            margin-bottom: 2px;
         }
         .highlight {
             font-weight: bold;
