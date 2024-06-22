@@ -24,9 +24,9 @@ My research interests have evolved in three stages. Initially, I focused on the 
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title 1"><strong>[1] Health and Well-bing; Social Capital; Social Infrastructure</strong></div>
-      <div class="title 2"><strong>[2] Social Resilience; Health Inequality; Regeneration Strategy</strong></div>
-      <div class="title 3"><strong>[3] Healthcare Service; Climate Change; Climate Adaption Policy</strong></div>
+      <div class="title 1">[1] <strong>Health and Well-bing; Social Capital; Social Infrastructure</strong></div>
+      <div class="title 2">[2] <strong>Social Resilience; Health Inequality; Regeneration Strategy</strong></div>
+      <div class="title 3">[3] <strong>Healthcare Service; Climate Change; Climate Adaption Policy</strong></div>
     </div>
   </div>
 </div>
