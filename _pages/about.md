@@ -67,7 +67,6 @@ Education
     <div class="container">
         <section class="row">
             <p class="highlight"> <a href="http://en.hit.edu.cn">Harbin Institute of Technology</a></p>   
-            </div>
             <div>
                 <p>Sept 2021 - Mar 2024</p>
             </div>
