@@ -173,4 +173,7 @@ Education
 </html>
 ---
 
-
+Skills & Interests
+======
+* SPSS, GIS, ENVI, Python, Java, Latex
+* Large fomat Photograph, Handcraft, Stone carving
