@@ -28,7 +28,7 @@ Journal Articles
       <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu(Corresponding Author)</div>
       <div class="periodical"><em><strong>(Habitat International)</strong>, Volume 143, January 2024, 102991.</em></div>
       <div class="links">
-        <a href="https://www.sciencedirect.com/journal/habitat-international" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <a href="https://www.sciencedirect.com/journal/habitat-international" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Journal</a>
         <strong><i style="color:#7b5aa6">SSCI JCR Q1 (IF=6.8)</i></strong>
       </div>
     </div>
@@ -47,7 +47,7 @@ Journal Articles
       <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng(Corresponding Author)</div>
       <div class="periodical"><em><strong>(Urban Forestry & Urban Greening)</strong>, Volume 94, April 2024, 128267.</em></div>
       <div class="links">
-        <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Journal</a>
         <strong><i style="color:#7b5aa6">SSCI/SCI JCR Q1 (IF=6.4)</i></strong>
       </div>
     </div>
@@ -66,7 +66,7 @@ Journal Articles
       <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng(Corresponding Author)</div>
       <div class="periodical"><em><strong>(Urban Forestry & Urban Greening)</strong>, Volume 97, July 2024, 128375.</em></div>
       <div class="links">
-        <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Journal</a>
         <strong><i style="color:#7b5aa6">SSCI/SCI JCR Q1 (IF=6.4)</i></strong>
       </div>
     </div>
@@ -85,7 +85,7 @@ Journal Articles
       <div class="author">Qi Cheng, <strong>Shiyan Sha(Co-first/Corresponding Author)</strong></div>
       <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Under Review.</em></div>
       <div class="links">
-        <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Journal</a>
         <strong><i style="color:#7b5aa6">SCI JCR Q1 (IF=11.7)</i></strong>
       </div>
     </div>
@@ -104,7 +104,7 @@ Journal Articles
       <div class="author">Qi Cheng, <strong>Shiyan Sha(Corresponding Author)</strong></div>
       <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Volume 107, 15 July 2024, 105467.</em></div>
       <div class="links">
-        <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Journal</a>
         <strong><i style="color:#7b5aa6">SCI JCR Q1 (IF=11.7)</i></strong>
       </div>
     </div>
@@ -123,7 +123,7 @@ Journal Articles
       <div class="author">Qi Cheng, <strong>Shiyan Sha(Corresponding Author)</strong></div>
       <div class="periodical"><em><strong>(Applied Geography)</strong>, Volume 167, June 2024, 103291.</em></div>
       <div class="links">
-        <a href="https://www.sciencedirect.com/journal/applied-geography" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <a href="https://www.sciencedirect.com/journal/applied-geography" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Journal</a>
         <strong><i style="color:#7b5aa6">SSCI JCR Q1 (IF=4.9)</i></strong>
       </div>
     </div>
@@ -142,7 +142,7 @@ Journal Articles
       <div class="author">Qi Cheng, <strong>Shiyan Sha(Corresponding Author)</strong>, Wen Cheng</div>
       <div class="periodical"><em><strong>(Applied Geography)</strong>, Volume 159, October 2023, 103087.</em></div>
       <div class="links">
-        <a href="https://www.sciencedirect.com/journal/applied-geography" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <a href="https://www.sciencedirect.com/journal/applied-geography" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Journal</a>
         <strong><i style="color:#7b5aa6">SSCI JCR Q1 (IF=4.9)</i></strong>
       </div>
     </div>
@@ -161,7 +161,7 @@ Journal Articles
       <div class="author">Ming Lu, <strong>Shiyan Sha(Corresponding Author)</strong>, Qi Cheng</div>
       <div class="periodical"><em><strong>(Urban Planning International) In Chinese</strong>, Nov 2023.</em></div>
       <div class="links">
-        <a href="https://navi.cnki.net/knavi/journals/GWCG/detail?uniplatform=NZKPT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <a href="https://navi.cnki.net/knavi/journals/GWCG/detail?uniplatform=NZKPT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Journal</a>
         <strong><i style="color:#7b5aa6">CSSCI (IF=4.7)</i></strong>
       </div>
     </div>
@@ -180,7 +180,7 @@ Journal Articles
       <div class="author">Guangmeng Bian, Xiangyu Gao, Qishu Zou, Qi Cheng, Tianyi Sun, <strong>Shiyan Sha</strong>, Meng Zhen(Corresponding Author)</div>
       <div class="periodical"><em><strong>(Environmental Science and Pollution Research)</strong>, Volume 30, pages 97363–97376, (2023).</em></div>
       <div class="links">
-        <a href="https://link.springer.com/journal/11356" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <a href="https://link.springer.com/journal/11356" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Journal</a>
         <strong><i style="color:#7b5aa6">SCI JCR Q1 (IF=5.8)</i></strong>
       </div>
     </div>
@@ -201,7 +201,7 @@ Conference Papers
       <div class="author"><strong>Shiyan Sha</strong>, Ming Lu, Qinghe Meng, Linghai Xuan</div>
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 58th)</strong>, Oct 2022.</em></div>
       <div class="links">
-        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
+        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Congress</a>
         <strong><i style="color:#7b5aa6">Presentation</i></strong>
       </div>
     </div>
@@ -220,7 +220,7 @@ Conference Papers
       <div class="author">Qinghe Meng, Ming Lu, <strong>Shiyan Sha</strong></div>
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 58th)</strong>, Oct 2022.</em></div>
       <div class="links">
-        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
+        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Congress</a>
         <strong><i style="color:#7b5aa6">Participation</i></strong>
       </div>
     </div>
@@ -239,7 +239,7 @@ Conference Papers
       <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu, Wen Cheng</div>
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
-        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
+        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Congress</a>
         <strong><i style="color:#7b5aa6">Presentation</i></strong>
       </div>
     </div>
@@ -258,7 +258,7 @@ Conference Papers
       <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu, Wen Cheng</div>
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
-        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
+        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Congress</a>
         <strong><i style="color:#7b5aa6">Presentation</i></strong>
       </div>
     </div>
@@ -277,7 +277,7 @@ Conference Papers
       <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu, Wen Cheng</div>
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
-        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
+        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Congress</a>
         <strong><i style="color:#7b5aa6">Presentation</i></strong>
       </div>
     </div>
@@ -296,7 +296,7 @@ Conference Papers
       <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu, Wen Cheng</div>
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
-        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
+        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Congress</a>
         <strong><i style="color:#7b5aa6">Presentation</i></strong>
       </div>
     </div>
@@ -315,7 +315,7 @@ Conference Papers
       <div class="author">Qi Cheng, <strong>Shiyan Sha(Corresponding Author)</strong>, Wen Cheng, Ming Lu</div>
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
-        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
+        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Congress</a>
         <strong><i style="color:#7b5aa6">Participation</i></strong>
       </div>
     </div>
@@ -334,7 +334,7 @@ Conference Papers
       <div class="author">Qi Cheng, <strong>Shiyan Sha(Corresponding Author)</strong>, Wen Cheng, Ming Lu</div>
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
-        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
+        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Congress</a>
         <strong><i style="color:#7b5aa6">Participation</i></strong>
       </div>
     </div>
@@ -353,7 +353,7 @@ Conference Papers
       <div class="author">Qi Cheng, <strong>Shiyan Sha(Corresponding Author)</strong>, Wen Cheng, Ming Lu</div>
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
-        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
+        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Congress</a>
         <strong><i style="color:#7b5aa6">Participation</i></strong>
       </div>
     </div>
@@ -372,7 +372,7 @@ Conference Papers
       <div class="author">Qi Cheng, <strong>Shiyan Sha(Corresponding Author)</strong>, Wen Cheng, Ming Lu</div>
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
-        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
+        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Congress</a>
         <strong><i style="color:#7b5aa6">Participation</i></strong>
       </div>
     </div>
