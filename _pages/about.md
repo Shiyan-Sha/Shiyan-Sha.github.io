@@ -19,11 +19,6 @@ During my graduate studies, through continuous exploration, I have contributed t
  
 Education
 ======
-Harbin Institute of Technology(Project 985 & 211/"Double World-class Project")
-Master of Philosophy in Urban and rural planning (Sept. 2021 - Mar. 2024 Harbin, China)
-Average score: 86.9/100
-Honor: First-class Scholarship; Outstanding Student Award; Excellent Dissertation Proposal
-Core Modules: Planning Design Research (88); Urban Planning Theory (93); Application of Geographic Information and Remote Sensing Analysis (88); Design Research (95)
 
 <div class="container">
     <div class="row">
