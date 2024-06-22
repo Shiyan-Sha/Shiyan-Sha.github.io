@@ -70,6 +70,23 @@ During my undergraduate studies, I participated in several important research-or
 </div>
 ---
 
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
+    <img src="/images/qxgh.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><strong>Participation in the Qianxi County Regional Spatial Plan (2019-2035)</strong></div>
+    </div> 
+     <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
+      <i>I was involved in the town development boundary delineation in this plan, which specifically included data processing, analysis, and GIS mapping.</i>
+    </div>
+    <strong><i style="color:#c02c38">As a Member</i></strong>
+    <div class="author">Hebei University of Technology</div>
+    <strong><i style="color:#7b5aa6">Mar 2020 - Jul 2020</i></strong>
+  </div>
+</div>
+
 Research Fundings
 ======
 
