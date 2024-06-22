@@ -36,18 +36,36 @@ During my undergraduate studies, I participated in several important research-or
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
-    <img src="/images/zzw333.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+    <img src="/images/tjyb.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="/images/zzw3.png"><strong>Excellent Urban Design Assignments for Urban and Rural Planning Majors in Higher Education Institutions in China</strong></a></div>
+      <div class="title"><a href="https://wsjk.tj.gov.cn/ZWGK3158/GSGG247/202208/W020201110659782999003.pdf"><strong>Participation in the Layout Plan for Healthcare Institutions in Tianjin (2019-2035)</strong></a></div>
     </div> 
-      <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-      <i>In this research-based project, our team selected a historic and cultural district in Liaocheng, Shandong Province, China. We conducted an in-depth, month-long investigation, focusing on various aspects such as social structure, public spaces and economic development. Based on our findings, we proposed a 'co-creation and co-governance' micro-renewal strategy to revitalise the cultural vitality of the area.</i>
+     <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
+      <i>I was involved in major work on data organisation, data analysis and GIS mapping. During this process, I was impressed by the geospatial differences in healthcare service facilities in megacities. Therefore, in this plan, which has been implemented, we proposed policies as well as spatial strategies to cope with regional inequalities in healthcare services.</i>
     </div>
-    <strong><i style="color:#c02c38">Third Price</i></strong>
-    <div class="author"><strong>Shiyan Sha (First Author)</strong>, Shunli Zhao.</div>
-    <strong><i style="color:#7b5aa6">Oct 2019</i></strong>
+    <strong><i style="color:#c02c38">As a Core Member</i></strong>
+    <div class="author">Tianjin Health and Family Planning Development Research Centre, Hebei University of Technology</div>
+    <strong><i style="color:#7b5aa6">Dec 2019 - Sep 2020</i></strong>
+  </div>
+</div>
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
+    <img src="/images/qxgh.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="https://wsjk.tj.gov.cn/ZWGK3158/GSGG247/202208/W020201110659782999003.pdf"><strong>Participation in the Layout Plan for Healthcare Institutions in Tianjin (2019-2035)</strong></a></div>
+    </div> 
+     <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
+      <i>I was involved in major work on data organisation, data analysis and GIS mapping. During this process, I was impressed by the geospatial differences in healthcare service facilities in megacities. Therefore, in this plan, which has been implemented, we proposed policies as well as spatial strategies to cope with regional inequalities in healthcare services.</i>
+    </div>
+    <strong><i style="color:#c02c38">As a Core Member</i></strong>
+    <div class="author">Tianjin Health and Family Planning Development Research Centre, Hebei University of Technology</div>
+    <strong><i style="color:#7b5aa6">Dec 2019 - Sep 2020</i></strong>
   </div>
 </div>
 ---
