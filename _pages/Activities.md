@@ -29,7 +29,7 @@ During my undergraduate studies, I participated in several important research-or
     <div class="author">Harbin Institute of Technology</div>
     <strong><i style="color:#7b5aa6">Sep 2021 - Mar 2024</i></strong>
       <div class="links">
-        <a href="https://www.sciencedirect.com/journal/habitat-international" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the activity</a>
+        <a href="https://www.sciencedirect.com/journal/habitat-international" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Activity</a>
   </div>
 </div>
 ---
