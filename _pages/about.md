@@ -37,13 +37,7 @@ Education
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Education</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.4;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 15px;
-        }
+
         .container {
             max-width: 800px;
             margin: 0 auto;
@@ -108,13 +102,6 @@ Education
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Education</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.4;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 15px;
-        }
         .container {
             max-width: 800px;
             margin: 0 auto;
