@@ -20,10 +20,9 @@ Research Interests
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-    <div class="title 1"><strong>interest 1</strong>
-    <div class="title 2"><strong>interest 1</strong>
-    <div class="title 3"><strong>interest 1</strong>
-    <div class="title 4"><strong>interest 1</strong>
+    <div class="title 1"><strong>[1] interest 1</strong>
+    <div class="title 2"><strong>[2] interest 1</strong>
+    <div class="title 3"><strong>[3] interest 1</strong>
   </div>
 </div>
  
