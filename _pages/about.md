@@ -47,7 +47,7 @@ Education
         }
         .highlight {
             font-weight: bold;
-            color: #007BFF;
+            color: #C02C38;
         }
     </style>
 </head>
@@ -63,8 +63,7 @@ Education
         </section>
         <section class="row">
             <div>
-                <p>Master of Philosophy in Urban and rural planning</p>
-                <p>Average score: 86.9/100</p>
+                <p>Master of Philosophy in Urban and rural planning (Average score: 86.9/100)</p>
             </div>
         </section>
         <section class="row">
