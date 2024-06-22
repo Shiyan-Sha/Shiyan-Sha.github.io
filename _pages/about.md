@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-I am a student at the School of Architecture and Design, Harbin Institute of Technology, and have obtained a Master's degree in Urban and Rural Planning. Under the guidance of Professor Ming Lu, Associate Professor Guangmeng Bian and Associate Professor Meng Zhen, I have made significant achievements in research over the past three years. My interests have gradually shifted to interdisciplinary areas such as climate change, health equity, social resilience and social infrastructure renewal. Together with collaborators and research teams, I have contributed to several notable research publications.
+I am a student at the School of Architecture and Design, Harbin Institute of Technology, and have obtained a Master's degree in Urban and Rural Planning. Over the past three years, my interests have gradually shifted to interdisciplinary areas such as climate change, health equity, social resilience and social infrastructure renewal. Together with collaborators and research teams, I have contributed to several notable research publications.
  </div>
  
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
