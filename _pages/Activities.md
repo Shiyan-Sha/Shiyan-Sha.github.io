@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-During my undergraduate studies, I participated in several important research-oriented academic competitions, which were high-level events organised by the Urban Planning Society of China. In 2019, as a team leader, I collaborated with my teammates to win awards in both the social investigation and urban design categories. These competitions honed my skills in research, observation, analysis and drawing, and provided crucial support for my postgraduate studies.
+In the process of participating in social activities such as paper presentations and work shops, I have also practised my oral expression skills, social skills and teamwork skills, which have provided me with confidence and support to participate in more international communications.
  </div>
 ---
 
