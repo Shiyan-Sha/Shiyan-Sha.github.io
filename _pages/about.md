@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-I am a student at the School of Architecture and Design, Harbin Institute of Technology, and have obtained a Master's degree in Urban and Rural Planning. Over the past three years, my interests have gradually shifted to interdisciplinary areas such as climate change, health equity, social resilience and social infrastructure renewal. Together with collaborators and research teams, I have contributed to several notable research publications.These engaging research experiences have equipped me with extensive social survey skills and enhanced my spatial analysis skills. Through field investigations and ongoing discussions with peers, I have developed critical thinking skills, rigorous research methods and innovative thinking.
+I am a student at the School of Architecture and Design, Harbin Institute of Technology, and have obtained a Master's degree in Urban and Rural Planning. Over the past three years, my interests have gradually shifted to interdisciplinary areas such as climate change, health equity, social resilience and social infrastructure regeneration. Together with collaborators and research teams, I have contributed to several notable research publications. These engaging research experiences have equipped me with extensive social investigation skills and enhanced my spatial analysis skills. Through field investigations and ongoing discussions with peers, I have developed critical thinking skills, rigorous research methods and innovative thinking.
  </div>
 
 ---
