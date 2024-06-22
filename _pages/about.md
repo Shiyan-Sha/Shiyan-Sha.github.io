@@ -55,7 +55,7 @@ Education
         }
         .highlight {
             font-weight: bold;
-            color: #C02C38;
+            color: #132C33;
         }
         /* Reduce bottom margin for paragraphs inside sections */
         .row p {
@@ -116,7 +116,7 @@ Education
         }
         .highlight {
             font-weight: bold;
-            color: #C02C38;
+            color: #132C33;
         }
     </style>
 </head>
