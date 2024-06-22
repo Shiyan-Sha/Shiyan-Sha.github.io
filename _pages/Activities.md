@@ -61,3 +61,33 @@ In the process of participating in social activities such as paper presentations
 </div>
 
 ---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
+    <img src="/images/iso.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><strong>An Investigation of Social Infrastructure and Social Capital in Hegang City, China</strong></div>
+    </div> 
+    <i>In my month-long investigation of the shrinking city of Hegang, I focused on the existing social infrastructure of the old urban area and its ability to facilitate the formation of residents' social networks and social capital. These data provided the basis for my research papers [1], [3] and [7].</i>
+    <div><strong><i style="color:#7b5aa6">Jul 2022 - Aug 2022</i></strong></div>
+  </div>
+</div>
+
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
+    <img src="/images/usf.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><strong>An Investigation of Social Infrastructure and Social Capital in Hegang City, China</strong></div>
+    </div> 
+    <i>In my month-long investigation of the shrinking city of Hegang, I focused on the existing social infrastructure of the old urban area and its ability to facilitate the formation of residents' social networks and social capital. These data provided the basis for my research papers [1], [3] and [7].</i>
+    <div><strong><i style="color:#7b5aa6">Jul 2022 - Aug 2022</i></strong></div>
+  </div>
+</div>
+
+---
