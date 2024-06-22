@@ -12,7 +12,7 @@ redirect_from:
 Research Projects
 ======
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-During my undergraduate studies, I participated in several important research-oriented academic competitions, which were high-level events organised by the Urban Planning Society of China. In 2019, as a team leader, I collaborated with my teammates to win awards in both the social investigation and urban design categories. These competitions honed my skills in research, observation, analysis and drawing, and provided crucial support for my postgraduate studies.
+During my undergraduate studies, I worked on projects such as village planning and regional planning, which provided me with a foundation in data analysis and mapping. My work on the Tianjin Healthcare Facility Plan strengthened my research skills and stimulated me to think about social, health and geospatial inequalities. As a graduate student, I spent three years working on a textbook in my discipline, focusing on the social systems chapter. I learnt a wealth of sociological theories and began to think in terms of socio-spatial dialectics as I compiled data and wrote.
  </div>
 ---
 
