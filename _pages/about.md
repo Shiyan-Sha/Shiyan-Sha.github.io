@@ -82,4 +82,73 @@ Education
 </body>
 </html>
 
+---
+
+<html lang="zh-EN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 10px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 10px;
+            border-radius: 8px;
+        }
+        .row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 5px;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #C02C38;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <section class="row">
+            <div>
+                <p class="highlight">Hebei University of Technology</p>
+            </div>
+            <div>
+                <p>Sept 2016 - Jun 2021</p>
+            </div>
+        </section>
+        <section class="row">
+            <div>
+                <p>Bachelor of Engineering in Urban and rural planning <i>(GPA: 3.77/4.00)</i></p>
+            </div>
+        </section>
+        <section class="row">
+            <div>
+                <p class="highlight">Ranking within major:</p>
+                <p>2/58 (Top 3%)</p>
+            </div>
+        </section>
+        <section class="row">
+            <div>
+                <p class="highlight">Honor:</p>
+                <p>Outstanding Graduation Award; First-class Scholarship</p>
+            </div>
+        </section>
+        <section class="row">
+            <div>
+                <p class="highlight">Core Modules:</p>
+                <p>Urban Planning and Design (94); History of Urbanism and Planning (97); Principles of Urban and Rural Planning (96); Urban and Rural Regional Planning (94); Urban Sociology (92); Urban Geography (93)</p>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
 
