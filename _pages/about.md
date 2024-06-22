@@ -40,7 +40,7 @@ Education
     <style>
         body {
             font-family: Arial, sans-serif;
-            line-height: 1.2;
+            line-height: 1.4;
             background-color: #f4f4f4;
             margin: 0;
             padding: 15px;
@@ -111,7 +111,7 @@ Education
     <style>
         body {
             font-family: Arial, sans-serif;
-            line-height: 1.2;
+            line-height: 1.4;
             background-color: #f4f4f4;
             margin: 0;
             padding: 15px;
