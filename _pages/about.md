@@ -162,6 +162,12 @@ Education
                 <p>Urban Planning and Design (94); History of Urbanism and Planning (97); Principles of Urban and Rural Planning (96); Urban and Rural Regional Planning (94); Urban Sociology (92); Urban Geography (93)</p>
             </div>
         </section>
+       <section class="row">
+            <div>
+                <p class="highlight">Collaborating Supervisor:</p>
+                <p><a href="https://www.researchgate.net/scientific-contributions/Guangmeng-Bian-2148025468">Associate Professor Guangmeng Bian</a></p>
+            </div>
+        </section>
     </div>
 </body>
 </html>
