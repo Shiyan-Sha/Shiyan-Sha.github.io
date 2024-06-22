@@ -20,32 +20,6 @@ During my graduate studies, through continuous exploration, I have contributed t
 Education
 ======
 
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
-        background-color: #f4f4f4;
-        margin: 0;
-        padding: 20px;
-    }
-    .container {
-        max-width: 800px;
-        margin: 0 auto;
-        background: #fff;
-        padding: 20px;
-        border-radius: 8px;
-    }
-    .row {
-        display: flex;
-        justify-content: space-between;
-        margin-bottom: 0px; /* 调整行与行之间的间距 */
-    }
-    .highlight {
-        font-weight: bold;
-        color: #007BFF;
-    }
-</style>
-
 <div class="container">
     <div class="row">
         <div>
