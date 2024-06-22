@@ -95,7 +95,7 @@ Education
        <section class="row">
             <div>
                 <p class="highlight">Collaborating Supervisors:</p>
-                <p><a href="http://homepage.hit.edu.cn/luming">Professor Ming Lu</a>, <a href="https://gr.xjtu.edu.cn/en/web/zhenmeng">Associate Professor Meng Zhen</a></p>
+                <p><a href="http://homepage.hit.edu.cn/luming">Prof. Ming Lu</a>, <a href="https://gr.xjtu.edu.cn/en/web/zhenmeng">Assoc. Prof. Meng Zhen</a></p>
             </div>
         </section>
     </div>
@@ -165,7 +165,7 @@ Education
        <section class="row">
             <div>
                 <p class="highlight">Collaborating Supervisor:</p>
-                <p><a href="https://www.researchgate.net/scientific-contributions/Guangmeng-Bian-2148025468">Associate Professor Guangmeng Bian</a></p>
+                <p><a href="https://www.researchgate.net/scientific-contributions/Guangmeng-Bian-2148025468">Assoc. Prof. Guangmeng Bian</a></p>
             </div>
         </section>
     </div>
