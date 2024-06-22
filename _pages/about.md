@@ -33,7 +33,7 @@ My research interests have evolved in three stages. Initially, I focused on the 
   </div>
 </div>
 
-
+---
  
 Education
 ======
