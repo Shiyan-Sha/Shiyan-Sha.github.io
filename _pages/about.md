@@ -28,16 +28,16 @@ Education
     <style>
         body {
             font-family: Arial, sans-serif;
-            line-height: 1.6;
+            line-height: 1;
             background-color: #f4f4f4;
             margin: 0;
-            padding: 20px;
+            padding: 10px;
         }
         .container {
             max-width: 800px;
             margin: 0 auto;
             background: #fff;
-            padding: 20px;
+            padding: 10px;
             border-radius: 8px;
         }
         .row {
