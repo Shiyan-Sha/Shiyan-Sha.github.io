@@ -20,13 +20,13 @@ My research interests have evolved in three stages. Initially, I focused on the 
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 400px; margin-right: 40px; padding-left: 0;">
-    <img src="/images/profile.png" class="teaser img-fluid z-depth-1" style="width: 400px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+    <img src="/images/ri.png" class="teaser img-fluid z-depth-1" style="width: 400px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title 1"><strong>[1] interest 1</strong></div>
-      <div class="title 2"><strong>[2] interest 1</strong></div>
-      <div class="title 3"><strong>[3] interest 1</strong></div>
+      <div class="title 1"><strong>[1] Health and Well-bing; Social Capital; Social Infrastructure</strong></div>
+      <div class="title 2"><strong>[2] Social Resilience; Health Inequality; Regeneration Strategy</strong></div>
+      <div class="title 3"><strong>[3] Healthcare Service; Climate Change; Climate Adaption Policy</strong></div>
     </div>
   </div>
 </div>
