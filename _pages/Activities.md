@@ -38,10 +38,10 @@ In the process of participating in social activities such as paper presentations
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><strong>An Investigation of Social Infrastructure and Social Capital in Hegang City, China</strong></div>
+      <div class="title"><strong>Presentation of conference papers at Urban Economy Forum 5 + World Planning Congress 58 & 59</strong></div>
     </div> 
-    <i>In my month-long investigation of the shrinking city of Hegang, I focused on the existing social infrastructure of the old urban area and its ability to facilitate the formation of residents' social networks and social capital. These data provided the basis for my research papers [1], [3] and [7].</i>
-    <div><strong><i style="color:#7b5aa6">Jul 2022 - Aug 2022</i></strong></div>
+    <i>I presented a total of five conference papers at two World Planning Conferences, and the presentation of these papers allowed me to communicate with researchers from all over the world.</i>
+    <div><strong><i style="color:#7b5aa6">Oct 2022 & Oct 2023</i></strong></div>
   </div>
 </div>
 
@@ -53,10 +53,10 @@ In the process of participating in social activities such as paper presentations
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><strong>An Investigation of Social Infrastructure and Social Capital in Hegang City, China</strong></div>
+      <div class="title"><strong>Participation in Grassroots Infrastructures and Urban Social Reproduction Workshop</strong></div>
     </div> 
-    <i>In my month-long investigation of the shrinking city of Hegang, I focused on the existing social infrastructure of the old urban area and its ability to facilitate the formation of residents' social networks and social capital. These data provided the basis for my research papers [1], [3] and [7].</i>
-    <div><strong><i style="color:#7b5aa6">Jul 2022 - Aug 2022</i></strong></div>
+    <i>I attended a summer camp organized by the Urban Studies Foundation on social infrastructure and the production of space, which broadened my understanding and perspective of urban socio-spatial theory and practice.</i>
+    <div><strong><i style="color:#7b5aa6">May 2024</i></strong></div>
   </div>
 </div>
 
