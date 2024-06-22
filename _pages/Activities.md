@@ -38,12 +38,10 @@ In the process of participating in social activities such as paper presentations
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><strong>Member of ISOCARP International Society of City and Regional Planners</strong></div>
+      <div class="title"><strong>A Social Investigation on Heat Wave Resilience of Residents in Neighbourhoods in Tianjin, China</strong></div>
     </div> 
-    <strong><i style="color:#c02c38">ISOCARP</i></strong>
-    <strong><i style="color:#7b5aa6">Jun 2023 - Jun 2024</i></strong>
-      <div class="links">
-        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Activity</a>
+    <i>I carried out questionnaire distribution and interviews in communities in Tianjin for up to two months, and this data provided the research basis for my research papers [2] and [5].</i>>
+    <strong><i style="color:#7b5aa6">Jun 2023 - Aug 2023</i></strong>
   </div>
  </div>
 </div>
@@ -55,12 +53,10 @@ In the process of participating in social activities such as paper presentations
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><strong>Member of ISOCARP International Society of City and Regional Planners</strong></div>
+      <div class="title"><strong>A Investigation of Social Infrastructure and Social Capital in Hegang City, China</strong></div>
     </div> 
-    <strong><i style="color:#c02c38">ISOCARP</i></strong>
-    <strong><i style="color:#7b5aa6">Jun 2023 - Jun 2024</i></strong>
-      <div class="links">
-        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Activity</a>
+    <i>In my month-long investigation of the shrinking city of Hegang, I focused on the existing social infrastructure of the old urban area and its ability to facilitate the formation of residents' social networks and social capital. These data provided the basis for my research papers [1], [3] and [7].</i>
+    <strong><i style="color:#7b5aa6">Jul 2022 - Aug 2022</i></strong>
   </div>
  </div>
 </div>
