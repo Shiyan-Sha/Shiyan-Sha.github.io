@@ -100,6 +100,9 @@ Education
                 <p><a href="http://homepage.hit.edu.cn/luming">Prof. Ming Lu</a>, <a href="https://gr.xjtu.edu.cn/en/web/zhenmeng">Assoc. Prof. Meng Zhen</a></p>
             </div>
         </section>
+       <div class="links">
+      <a href="/Images/Transcript en.png" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Transcript</a>
+    </div>
     </div>
 </body>
 </html>
