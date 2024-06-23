@@ -173,6 +173,9 @@ Education
                 <p><a href="https://www.researchgate.net/scientific-contributions/Guangmeng-Bian-2148025468">Assoc. Prof. Guangmeng Bian</a></p>
             </div>
         </section>
+       <div class="links">
+      <a href="/Images/Transcript zh.png" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Transcript</a>
+    </div>
     </div>
 </body>
 </html>
