@@ -91,7 +91,7 @@ Education
         <section class="row">
             <div>
                 <p class="highlight">Core Modules:</p>
-                <p>Planning Design Research (88); Urban Planning Theory (93); Application of Geographic Information and Remote Sensing Analysis (88); Design Research (95)</p>
+                <p>Planning Design Research (88/100); Urban Planning Theory (93/100); Application of Geographic Information and Remote Sensing Analysis (88/100); Design Research (95/100)</p>
             </div>
         </section>
        <section class="row">
@@ -161,7 +161,7 @@ Education
         <section class="row">
             <div>
                 <p class="highlight">Core Modules:</p>
-                <p>Urban Planning and Design (94); History of Urbanism and Planning (97); Principles of Urban and Rural Planning (96); Urban and Rural Regional Planning (94); Urban Sociology (92); Urban Geography (93)</p>
+                <p>Urban Planning and Design (94/100); History of Urbanism and Planning (97/100); Principles of Urban and Rural Planning (96/100); Urban and Rural Regional Planning (94/100); Urban Sociology (92/100); Urban Geography (93/100)</p>
             </div>
         </section>
        <section class="row">
