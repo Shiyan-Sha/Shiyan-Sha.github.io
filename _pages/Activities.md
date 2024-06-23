@@ -72,8 +72,11 @@ In the process of participating in social activities such as paper presentations
     <div>
       <div class="title"><strong>Participation in 2024 SJTU SDG July Camp (2 Credits)</strong></div>
     </div> 
-    <i>I attended the Traditional Medicine and UN Sustainable Development Goals (Course TMSDG) Programme, which was organised by Shanghai Jiao Tong University in China.</i>
-    <div><strong><i style="color:#7b5aa6">Jun 2024</i></strong></div>
+    <i>I attended the Traditional Medicine and UN Sustainable Development Goals (Course TMSDG) Programme, with a principal focus on SDG3: Good Health and Well-being.</i>
+     <div>
+    <strong><i style="color:#c02c38">2 Credits</i></strong>
+   </div>
+    <div><strong><i style="color:#7b5aa6">Jun 2024 - Jul 2024</i></strong></div>
     <div class="links">
       <a href="https://global.sjtu.edu.cn/en/page/sub/475" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Activity</a>
     </div>
