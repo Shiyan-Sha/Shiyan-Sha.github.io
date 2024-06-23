@@ -70,7 +70,7 @@ In the process of participating in social activities such as paper presentations
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><strong>Participation in 2024 SJTU SDG July Camp</strong></div>
+      <div class="title"><strong>Participation in 2024 SJTU SDG July Camp (2 Credits)</strong></div>
     </div> 
     <i>I attended the Traditional Medicine and UN Sustainable Development Goals (Course TMSDG) Programme, which was organised by Shanghai Jiao Tong University in China.</i>
     <div><strong><i style="color:#7b5aa6">Jun 2024</i></strong></div>
