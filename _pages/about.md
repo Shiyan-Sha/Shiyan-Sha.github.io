@@ -90,13 +90,13 @@ Education
         </section>
         <section class="row">
             <div>
-                <p class="highlight">Core Modules:</p>
+                <p class="highlight">Core courses:</p>
                 <p>Planning Design Research (88/100); Urban Planning Theory (93/100); Application of Geographic Information and Remote Sensing Analysis (88/100); Design Research (95/100)</p>
             </div>
         </section>
        <section class="row">
             <div>
-                <p class="highlight">Collaborating Supervisors:</p>
+                <p class="highlight">Collaborating supervisors:</p>
                 <p><a href="http://homepage.hit.edu.cn/luming">Prof. Ming Lu</a>, <a href="https://gr.xjtu.edu.cn/en/web/zhenmeng">Assoc. Prof. Meng Zhen</a></p>
             </div>
         </section>
@@ -163,13 +163,13 @@ Education
         </section>
         <section class="row">
             <div>
-                <p class="highlight">Core Modules:</p>
+                <p class="highlight">Core courses:</p>
                 <p>Urban Planning and Design (94/100); History of Urbanism and Planning (97/100); Principles of Urban and Rural Planning (96/100); Urban and Rural Regional Planning (94/100); Urban Sociology (92/100); Urban Geography (93/100)</p>
             </div>
         </section>
        <section class="row">
             <div>
-                <p class="highlight">Collaborating Supervisor:</p>
+                <p class="highlight">Collaborating supervisor:</p>
                 <p><a href="https://www.researchgate.net/scientific-contributions/Guangmeng-Bian-2148025468">Assoc. Prof. Guangmeng Bian</a></p>
             </div>
         </section>
