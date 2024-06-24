@@ -22,7 +22,7 @@ My research interests have evolved in three stages. Initially, I focused on the 
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 400px; margin-right: 20px; padding-left: 0;">
-    <img src="/images/gsnew.png" class="teaser img-fluid z-depth-1" style="width: 400px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+    <img src="/images/gsfinal.png" class="teaser img-fluid z-depth-1" style="width: 400px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0; text-align: justify;">
     <div>
