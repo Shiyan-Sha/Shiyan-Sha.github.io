@@ -184,3 +184,4 @@ Education
 Skills & Interests
 ======
 * SPSS, GIS, ENVI, Python, Java, Latex, Markdown, Origin
+* Large-format photograph, Craft making, Painting
