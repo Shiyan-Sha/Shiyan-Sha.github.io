@@ -174,7 +174,7 @@ Education
             </div>
         </section>
       <div class="links" style="text-align: right;">
-  <a href="/images/Transcript zh.png" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Transcript</a>
+  <a href="/images/cjd.png" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Transcript</a>
 </div>
     </div>
 </body>
