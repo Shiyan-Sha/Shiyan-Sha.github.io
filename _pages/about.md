@@ -24,7 +24,7 @@ My research interests have evolved in three stages. Initially, I focused on the 
   <div class="col-sm-3 abbr" style="flex: 0 0 auto; margin-bottom: 20px;">
     <img src="/images/gs0630.png" class="teaser img-fluid z-depth-1" style="width: 500px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
-  <div class="col-sm-9" style="flex: 0 0 auto; text-align: justify; width: 500px;">
+  <div class="col-sm-9" style="flex: 0 0 auto; width: 500px;">
     <div>
       <div class="title 1">[1]<strong>Health and Well-being; Social Capital; Social Infrastructure</strong></div>
       <div class="title 2">[2]<strong>Social Resilience; Health Inequality; Regeneration Strategy</strong></div>
