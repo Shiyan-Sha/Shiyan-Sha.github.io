@@ -20,15 +20,15 @@ My research interests have evolved in three stages. Initially, I focused on the 
  </div>
 ---
 
-<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
-  <div class="col-sm-3 abbr" style="flex: 0 0 500px; margin-right: 20px; padding-left: 0;">
+<div class="pub-row" style="display: flex; flex-direction: column; align-items: center; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 auto; margin-bottom: 20px;">
     <img src="/images/gs0630.png" class="teaser img-fluid z-depth-1" style="width: 500px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
-  <div class="col-sm-9" style="flex: 1; padding-left: 0; text-align: justify;">
+  <div class="col-sm-9" style="flex: 0 0 auto; text-align: justify; width: 500px;">
     <div>
       <div class="title 1">[1]<strong>Health and Well-being; Social Capital; Social Infrastructure</strong></div>
       <div class="title 2">[2]<strong>Social Resilience; Health Inequality; Regeneration Strategy</strong></div>
-      <div class="title 3">[3]<strong>Healthcare Service; Climate Change; Climate Adaption Policy</strong></div>
+      <div class="title 3">[3]<strong>Healthcare Service; Climate Change; Climate Adaptation Policy</strong></div>
     </div>
   </div>
 </div>
