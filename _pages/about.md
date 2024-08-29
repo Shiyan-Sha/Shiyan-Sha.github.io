@@ -101,7 +101,7 @@ Education
             </div>
         </section>
      <div class="links" style="text-align: right;">
-  <a href="/images/硕士成绩单.png" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Transcript</a>
+  <a href="/images/Transcript hit1.png" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Transcript</a>
 </div>
     </div>
 </body>
