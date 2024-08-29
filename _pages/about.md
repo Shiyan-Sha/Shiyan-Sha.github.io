@@ -183,5 +183,6 @@ Education
 
 Skills & Interests
 ======
-* SPSS, GIS, ENVI, Python, Java, Latex, Markdown, Origin
+* SPSS, GIS, ENVI, R, Python, Latex, Markdown, Geoda, Origin, etc.
 * Large-format photograph, Craft making, Painting
+* Chinese (native), English (fluent) (IELTS 8.0)
