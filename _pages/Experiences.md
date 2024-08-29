@@ -12,7 +12,7 @@ redirect_from:
 Research Projects
 ======
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-During my undergraduate studies, I worked on projects such as village planning and regional planning, which provided me with a foundation in data analysis and mapping. My work on the Tianjin Healthcare Facility Plan strengthened my research skills and stimulated me to think about social, health and geospatial inequalities. As a graduate student, I spent three years working on a textbook in my discipline, focusing on the social systems chapter. I learnt a wealth of sociological theories and began to think in terms of socio-spatial dialectics as I compiled data and wrote.
+During my undergraduate studies, I engaged in projects such as village and regional planning, which laid a solid foundation in data analysis and mapping. My involvement in the Tianjin Healthcare Facility Plan further enhanced my research skills and prompted me to explore social, health, and geospatial inequalities. As a graduate student, I dedicated three years to contributing to a textbook in my discipline, focusing on the social systems chapter. This experience deepened my understanding of sociological theories and encouraged me to think in terms of socio-spatial dialectics as I compiled data and wrote.
  </div>
 ---
 
@@ -25,7 +25,7 @@ During my undergraduate studies, I worked on projects such as village planning a
       <div class="title"><strong>Participated in the writing and editing of the book “Science of City” (In Chinese)</strong></div>
     </div> 
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-      <i>I contributed to the editing of the book “Science of City", which is a textbook to fill in the intermediate level (applied theory) of the urban science system and was selected as a textbook for urban and rural planning majors of the National Urban and Rural Planning Programme of the "14th Five-Year Plan". I was responsible for data collection, writing and editing, including chapters on urbanisation, laws of urban development, urban social systems, rural planning strategies, etc., and participated in the writing of about 100,000 words.</i>
+      <i>I contributed to the editing of the book Science of City, a textbook designed to bridge the gap at the intermediate level of the urban science system, focusing on applied theory. This book was selected as a textbook for urban and rural planning majors under the National Urban and Rural Planning Programme of the “14th Five-Year Plan.” My responsibilities included data collection, writing, and editing, with contributions to chapters on urbanization, urban development laws, urban social systems, rural planning strategies, and more, amounting to approximately 100,000 words.</i>
     </div>
     <strong><i style="color:#c02c38">As a Core Member</i></strong>
     <div class="author">Harbin Institute of Technology</div>
@@ -43,7 +43,7 @@ During my undergraduate studies, I worked on projects such as village planning a
       <div class="title"><a href="https://wsjk.tj.gov.cn/ZWGK3158/GSGG247/202208/W020201110659782999003.pdf"><strong>Participation in the Layout Plan for Healthcare Institutions in Tianjin (2019-2035)</strong></a></div>
     </div> 
      <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-      <i>I was involved in major work on data organisation, data analysis and GIS mapping. During this process, I was impressed by the geospatial differences in healthcare service facilities in megacities. Therefore, in this plan, which has been implemented, we proposed policies as well as spatial strategies to cope with regional inequalities in healthcare services.</i>
+      <i>I played a key role in organizing data, conducting analysis, and creating GIS maps. This experience highlighted the significant geospatial disparities in healthcare service facilities within megacities. Consequently, in the implemented plan, we proposed both policies and spatial strategies to address regional inequalities in healthcare services.</i>
     </div>
     <strong><i style="color:#c02c38">As a Core Member</i></strong>
     <div class="author">Tianjin Health and Family Planning Development Research Centre, Hebei University of Technology</div>
@@ -61,7 +61,7 @@ During my undergraduate studies, I worked on projects such as village planning a
       <div class="title"><a href="https://mp.weixin.qq.com/s/P9vd6_Q21HDs1JTP0rUK5A"><strong>Participation in the revitalisation and improvement planning of Tongjiaoyao Village</strong></a></div>
     </div> 
      <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-      <i>I was responsible for the preliminary phase of the village status survey in this plan. During the summer of 2018, my team and I carried out a half-month-long status investigation, which focused on the social structure of the village, buildings and public spaces, and potential for industrial development. This plan is one of the best examples of village planning in Hebei Province, China.</i>
+      <i>I led the preliminary phase of the village status survey for this plan. In the summer of 2018, my team and I conducted a two-week investigation, focusing on the village’s social structure, buildings, public spaces, and potential for industrial development. This plan is considered one of the best examples of village planning in Hebei Province, China.</i>
     </div>
     <strong><i style="color:#c02c38">As a Member</i></strong>
     <div class="author">Hebei University of Technology</div>
@@ -79,7 +79,7 @@ During my undergraduate studies, I worked on projects such as village planning a
       <div class="title"><strong>Participation in the Qianxi County Regional Spatial Plan (2019-2035)</strong></div>
     </div> 
      <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-      <i>I was involved in the town development boundary delineation in this plan, which specifically included data processing, analysis, and GIS mapping.</i>
+      <i>I was involved in delineating the town development boundaries for this plan, which included tasks such as data processing, analysis, and GIS mapping.</i>
     </div>
     <strong><i style="color:#c02c38">As a Member</i></strong>
     <div class="author">Hebei University of Technology</div>
