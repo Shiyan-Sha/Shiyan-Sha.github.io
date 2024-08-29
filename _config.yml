@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "SSY.png"
   name             : "Shiyan Sha (沙世琰)"
-  pronouns         : #"she/her"  
+  pronouns         : "he/his"  
   bio              : "Based on geography, society and humanity, contemplating the evolving world, beings, and ourselves."
   location         : "China"
   employer         : "Harbin Institute of Techonlogy"
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=0l-R7oMAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=0l-R7oMAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-1228-4269"
   semantic         : # URL
