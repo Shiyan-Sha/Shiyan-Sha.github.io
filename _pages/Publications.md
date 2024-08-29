@@ -48,7 +48,7 @@ Journal Articles
       <div class="periodical"><em><strong>(Urban Forestry & Urban Greening)</strong>, Volume 94, April 2024, 128267.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Journal</a>
-        <strong><i style="color:#7b5aa6">SSCI/SCI JCR Q1 (IF=6.4)</i></strong>
+        <strong><i style="color:#7b5aa6">SSCI/SCIE JCR Q1 (IF=6.4)</i></strong>
       </div>
     </div>
   </div>
@@ -67,7 +67,7 @@ Journal Articles
       <div class="periodical"><em><strong>(Urban Forestry & Urban Greening)</strong>, Volume 97, July 2024, 128375.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Journal</a>
-        <strong><i style="color:#7b5aa6">SSCI/SCI JCR Q1 (IF=6.4)</i></strong>
+        <strong><i style="color:#7b5aa6">SSCI/SCIE JCR Q1 (IF=6.4)</i></strong>
       </div>
     </div>
   </div>
@@ -86,7 +86,7 @@ Journal Articles
       <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Under Review.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Journal</a>
-        <strong><i style="color:#7b5aa6">SCI JCR Q1 (IF=11.7)</i></strong>
+        <strong><i style="color:#7b5aa6">SCIE JCR Q1 (IF=11.7)</i></strong>
       </div>
     </div>
   </div>
@@ -105,7 +105,7 @@ Journal Articles
       <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Volume 107, 15 July 2024, 105467.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Journal</a>
-        <strong><i style="color:#7b5aa6">SCI JCR Q1 (IF=11.7)</i></strong>
+        <strong><i style="color:#7b5aa6">SCIE JCR Q1 (IF=11.7)</i></strong>
       </div>
     </div>
   </div>
@@ -181,12 +181,32 @@ Journal Articles
       <div class="periodical"><em><strong>(Environmental Science and Pollution Research)</strong>, Volume 30, pages 97363–97376, (2023).</em></div>
       <div class="links">
         <a href="https://link.springer.com/journal/11356" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Journal</a>
-        <strong><i style="color:#7b5aa6">SCI JCR Q1 (IF=5.8)</i></strong>
+        <strong><i style="color:#7b5aa6">SCIE JCR Q1 (IF=5.8)</i></strong>
       </div>
     </div>
   </div>
 </div>
 ---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
+    <img src="/images/espr.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="https://www.tandfonline.com/doi/full/10.1080/13467581.2024.2389162">[10] Effects of landform and building layout on outdoor thermal environment: A case study of mountain villages in severely cold regions</a></div>
+      <div class="author">Guangmeng Bian, Qi Cheng, Gaoning Yan, <strong>Shiyan Sha</strong>, Meng Zhen(Corresponding Author)</div>
+      <div class="periodical"><em><strong>(Journal of Asian Architecture and Building Engineering)</strong>, (2024).</em></div>
+      <div class="links">
+        <a href="https://www.tandfonline.com/journals/tabe20" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Journal</a>
+        <strong><i style="color:#7b5aa6">SCIE/AHCI JCI Q1 (IF=1.5)</i></strong>
+      </div>
+    </div>
+  </div>
+</div>
+---
+
 
 Conference Papers
 ======
