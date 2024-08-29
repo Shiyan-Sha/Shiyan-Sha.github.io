@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-I am a student at the School of Architecture and Design (formerly known as the School of Architecture), Harbin Institute of Technology, and have obtained a Master's degree in Urban and Rural Planning. Over the past three years, my interests have gradually shifted to interdisciplinary areas such as climate change, health equity, social resilience and social infrastructure regeneration. Together with collaborators and research teams, I have contributed to several peer-reviewed research publications. These engaging research experiences have equipped me with extensive social investigation skills and enhanced my spatial analysis skills. Through field investigations and ongoing discussions with other outstanding scholars, I have developed critical thinking skills, rigorous research methods and innovative thinking.
+I am a student at the School of Architecture and Design (formerly the School of Architecture) at Harbin Institute of Technology, where I have obtained a Master’s degree in Urban and Rural Planning. Over the past three years, my academic interests have gradually expanded to encompass interdisciplinary areas, including climate change, health equity, social resilience, and the regeneration of social infrastructure.
+Collaborating with research teams and peers, I have contributed to several peer-reviewed research publications. These enriching research experiences have honed my social investigation skills and enhanced my proficiency in spatial analysis. Through field investigations and ongoing discussions with distinguished scholars, I have cultivated critical thinking abilities, adopted rigorous research methodologies, and embraced innovative approaches in my work.
  </div>
 
 ---
@@ -16,7 +17,7 @@ I am a student at the School of Architecture and Design (formerly known as the S
 Research Interests
 ======
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-My research interests have evolved in three stages. Initially, I focused on the impact of global urbanisation on socio-environmental conditions in depopulated areas. In my second year, I explored the health and social justice issues of vulnerable residents living in environmentally disadvantaged areas. Finally, in my third year, I began to examine policies for climate change adaptation, health equity and the governance of urban regeneration. Each stage of research has taken me from building social resilience in response to environmental change to specific studies of residents' health and policy implications.
+My research interests have evolved through three distinct stages. Initially, I concentrated on the impact of global urbanization on socio-environmental conditions in depopulated areas. In my second year, my focus shifted to exploring health and social justice issues faced by vulnerable residents in environmentally disadvantaged regions. Finally, in my third year, I began examining policies related to climate change adaptation, health equity, and the governance of urban regeneration. Each stage of my research has progressively taken me from broader studies on building social resilience in response to environmental change to more specific investigations into residents’ health and the implications of related policies.
  </div>
 ---
 
@@ -26,9 +27,8 @@ My research interests have evolved in three stages. Initially, I focused on the 
   </div>
   <div class="col-sm-9" style="flex: 0 0 auto; width: justify;">
     <div>
-      <div class="title 1">[1]<strong>Health and Well-being; Social Capital; Social Infrastructure</strong></div>
-      <div class="title 2">[2]<strong>Social Resilience; Health Inequality; Regeneration Strategy</strong></div>
-      <div class="title 3">[3]<strong>Healthcare Service; Climate Change; Climate Adaptation Policy</strong></div>
+      <div class="title 1">[1]<strong>Globalization: </strong>Social Infrastructure; Social Capital; Social Resilience; Regeneration Strategy</div>
+      <div class="title 2">[2]<strong>Climate Change:</strong>Health Inequality; Health Risk Assessment; Climate Adaption Policy; Healthcare Service</div>
     </div>
   </div>
 </div>
