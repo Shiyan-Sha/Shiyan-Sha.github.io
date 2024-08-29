@@ -63,6 +63,35 @@ In the process of participating in social activities such as paper presentations
   </div>
 </div>
 
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
+    <img src="/images/pku.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><strong>The Joint Workshop of Peking University, The University of Hong Kong, and South China University of Technology</strong></div>
+    </div> 
+    <div><strong><i style="color:#7b5aa6">Aug 2024</i></strong></div>
+    <div class="links">
+      <a href="https://mp.weixin.qq.com/s/nKzWe0Hvzg0h3Rlmav5Bgw" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Activity</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
+    <img src="/images/thu.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><strong>Summer Camp for Outstanding Students of School of Architecture, Tsinghua University</strong></div>
+    </div> 
+    <div><strong><i style="color:#7b5aa6">Jul 2024</i></strong></div>
+    <div class="links">
+      <a href="[https://mp.weixin.qq.com/s/nKzWe0Hvzg0h3Rlmav5Bgw](https://www.arch.tsinghua.edu.cn/column/Home)" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Activity</a>
+    </div>
+  </div>
+</div>
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
