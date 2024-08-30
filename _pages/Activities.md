@@ -70,6 +70,7 @@ Through participating in social activities such as paper presentations and works
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><strong>The Joint Workshop of Peking University, The University of Hong Kong, and South China University of Technology</strong></div>
+      <i>We engaged in extensive discussions during the joint summer camp, exploring the education and future of urban planning and landscape architecture. Additionally, we shared our visions for the development and future of Chinese cities.</i>
     </div> 
     <div><strong><i style="color:#7b5aa6">Aug 2024</i></strong></div>
     <div class="links">
@@ -85,6 +86,7 @@ Through participating in social activities such as paper presentations and works
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><strong>Summer Camp for Outstanding Students of School of Architecture, Tsinghua University</strong></div>
+      <i>During the summer camp, we discussed urban spatial issues and analytical methods, and exchanged ideas about our research directions and future plans.</i>
     </div> 
     <div><strong><i style="color:#7b5aa6">Jul 2024</i></strong></div>
     <div class="links">
