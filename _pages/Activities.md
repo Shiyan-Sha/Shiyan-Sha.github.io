@@ -88,7 +88,7 @@ Through participating in social activities such as paper presentations and works
     </div> 
     <div><strong><i style="color:#7b5aa6">Jul 2024</i></strong></div>
     <div class="links">
-      <a href="https://www.arch.tsinghua.edu.cn/column/Home" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Activity</a>
+      <a href="/images/ssythu.jpeg" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Activity</a>
     </div>
   </div>
 </div>
