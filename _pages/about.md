@@ -13,9 +13,11 @@ Collaborating with research teams and peers, I have contributed to several peer-
  </div>
  <div class="container">
 <section class="row">
-<p class="highlight"> <a href="http://en.hit.edu.cn">CV-Shiyan Sha</a></p>   
+<p class="highlight"> <a href="files/Shiyan Sha CV(final).pdf">CV-Shiyan Sha</a></p>   
 <div>
+  <div>
 ---
+
 
 Research Interests
 ======
