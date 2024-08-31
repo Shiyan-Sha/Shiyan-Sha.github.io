@@ -7,15 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-<div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-I am a student at the School of Architecture and Design (formerly the School of Architecture) at Harbin Institute of Technology, where I have obtained a Master’s degree in Urban and Rural Planning. Over the past three years, my academic interests have gradually expanded to encompass interdisciplinary areas, including climate change, health equity, social resilience, and the regeneration of social infrastructure.
-Collaborating with research teams and peers, I have contributed to several peer-reviewed research publications. These enriching research experiences have honed my social investigation skills and enhanced my proficiency in spatial analysis. Through field investigations and ongoing discussions with distinguished scholars, I have cultivated critical thinking abilities, adopted rigorous research methodologies, and embraced innovative approaches in my work.
- </div>
- <div class="container">
-<section class="row">
-<p class="highlight"> <a href="files/Shiyan Sha CV(final).pdf">CV-Shiyan Sha</a></p>   
-<div>
-  <div>
+<div class="col-sm-9 content">
+    I am a student at the School of Architecture and Design (formerly the School of Architecture) at Harbin Institute of Technology, where I earned a Master’s degree in Urban and Rural Planning. Over the past three years, my academic interests have expanded to encompass interdisciplinary areas, including climate change, health equity, social resilience, and the regeneration of social infrastructure.
+
+    Collaborating with research teams and peers, I have contributed to several peer-reviewed publications. These enriching experiences have sharpened my social investigation skills and enhanced my proficiency in spatial analysis. Through fieldwork and ongoing discussions with distinguished scholars, I have developed critical thinking abilities, adopted rigorous research methodologies, and embraced innovative approaches in my work.
+</div>
+
+<section class="container">
+    <section class="row">
+        <p class="highlight">
+            <a href="files/Shiyan Sha CV(final).pdf">CV-Shiyan Sha</a>
+        </p>
+    </section>
+</section>
 ---
 
 
