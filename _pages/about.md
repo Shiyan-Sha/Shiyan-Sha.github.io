@@ -15,7 +15,7 @@ redirect_from:
 
 <section class="container">
     <section class="row">
-<p class="highlight" style="text-align: right;">
+<p class="highlight" style="text-align: left;">
     <a href="files/Shiyan Sha CV(final).pdf">CV-Shiyan Sha</a>
 </p>
     </section>
