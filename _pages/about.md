@@ -11,7 +11,10 @@ redirect_from:
 I am a student at the School of Architecture and Design (formerly the School of Architecture) at Harbin Institute of Technology, where I have obtained a Master’s degree in Urban and Rural Planning. Over the past three years, my academic interests have gradually expanded to encompass interdisciplinary areas, including climate change, health equity, social resilience, and the regeneration of social infrastructure.
 Collaborating with research teams and peers, I have contributed to several peer-reviewed research publications. These enriching research experiences have honed my social investigation skills and enhanced my proficiency in spatial analysis. Through field investigations and ongoing discussions with distinguished scholars, I have cultivated critical thinking abilities, adopted rigorous research methodologies, and embraced innovative approaches in my work.
  </div>
-
+ <div class="container">
+<section class="row">
+<p class="highlight"> <a href="http://en.hit.edu.cn">CV-Shiyan Sha</a></p>   
+<div>
 ---
 
 Research Interests
