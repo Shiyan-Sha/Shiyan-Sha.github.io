@@ -24,7 +24,7 @@ During my graduate studies, I had the opportunity to serve multiple times as a r
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society"><strong>Sustainable Cities and Society</strong></a></div>
     </div> 
-    <div class="author"><strong>Reviewer</strong>, SCI (JCR Q1 IF=11.7)</div>
+    <div class="author"><strong>Reviewer</strong>, SCIE (JCR Q1 IF=11.7)</div>
     <strong><i style="color:#7b5aa6">May 2024</i></strong>
   </div>
 </div>
@@ -38,7 +38,7 @@ During my graduate studies, I had the opportunity to serve multiple times as a r
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/journal/health-and-place"><strong>Health & Place</strong></a></div>
     </div> 
-    <div class="author"><strong>Reviewer</strong>, SSCI (JCR Q1 IF=4.8)</div>
+    <div class="author"><strong>Reviewer</strong>, SCIE/SSCI (JCR Q1 IF=4.8)</div>
     <strong><i style="color:#7b5aa6">Nov 2023</i></strong>
   </div>
 </div>
@@ -66,7 +66,7 @@ During my graduate studies, I had the opportunity to serve multiple times as a r
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/journal/heliyon"><strong>Heliyon</strong></a></div>
     </div> 
-    <div class="author"><strong>Reviewer</strong>, SCI (JCR Q2 IF=4.0)</div>
+    <div class="author"><strong>Reviewer</strong>, SCIE (JCR Q2 IF=4.0)</div>
     <strong><i style="color:#7b5aa6">Mar 2024</i></strong>
   </div>
 </div>
