@@ -58,7 +58,7 @@ During my undergraduate studies, I engaged in projects such as village and regio
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="https://mp.weixin.qq.com/s/P9vd6_Q21HDs1JTP0rUK5A"><strong>Participation in the revitalisation and improvement planning of Tongjiaoyao Village</strong></a></div>
+      <div class="title"><a href="https://mp.weixin.qq.com/s/P9vd6_Q21HDs1JTP0rUK5A"><strong>Participation in the revitalisation and improvement planning of Tongjiayao Village</strong></a></div>
     </div> 
      <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
       <i>I led the preliminary phase of the village status survey for this plan. In the summer of 2018, my team and I conducted a two-week investigation, focusing on the village’s social structure, buildings, public spaces, and potential for industrial development. This plan is considered one of the best examples of village planning in Hebei Province, China.</i>
