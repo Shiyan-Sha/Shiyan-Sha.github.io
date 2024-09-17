@@ -222,7 +222,7 @@ Workshops
             <div>
                 <p class="highlight">
                     <a href="http://www.cala.pku.edu.cn/English.htm">
-                        The Joint Workshop of Peking University, The University of Hong Kong, and South China University of Technology
+                        [1] The Joint Workshop of Peking University, The University of Hong Kong, and South China University of Technology
                     </a>
                 </p>      
             </div>
@@ -265,7 +265,7 @@ Workshops
             <div>
                 <p class="highlight">
                     <a href="https://www.arch.tsinghua.edu.cn/column/Home">
-                       Summer Camp for Outstanding Students of School of Architecture, Tsinghua University
+                      [2] Summer Camp for Outstanding Students of School of Architecture, Tsinghua University
                     </a>
                 </p>      
             </div>
@@ -308,7 +308,7 @@ Workshops
             <div>
                 <p class="highlight">
                     <a href="https://www.sjtu.edu.cn">
-                       SJTU (Shanghai Jiaotong University) SDG Summer Camp
+                      [3] SJTU (Shanghai Jiaotong University) SDG Summer Camp (Online)
                     </a>
                 </p>      
             </div>
