@@ -236,6 +236,9 @@ Workshops
 </html>
 
 
+
+
+
 Skills & Interests
 ======
 * SPSS, GIS, ENVI, R, Python, Latex, Markdown, Geoda, Origin, etc.
