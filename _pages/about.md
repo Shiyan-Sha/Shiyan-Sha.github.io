@@ -192,7 +192,8 @@ Education
 Workshops
 ======
 
-<html lang="zh-EN">
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -201,7 +202,7 @@ Workshops
         .container {
             max-width: 800px;
             margin: 0 auto;
-            background: #fff;
+            background-color: #fff;
             padding: 15px;
             border-radius: 8px;
         }
@@ -220,14 +221,19 @@ Workshops
     <div class="container">
         <section class="row">
             <div>
-                <p class="highlight"> <a href="http://www.cala.pku.edu.cn/English.htm">The Joint Workshop of Peking University, The University of Hong Kong, and South China University of Technology</a></p>      
+                <p class="highlight">
+                    <a href="http://www.cala.pku.edu.cn/English.htm">
+                        The Joint Workshop of Peking University, The University of Hong Kong, and South China University of Technology
+                    </a>
+                </p>      
             </div>
             <div>
                 <p>Aug 2024</p>
             </div>
+        </section>
+    </div>
 </body>
 </html>
----
 
 
 Skills & Interests
