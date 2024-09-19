@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-    I am a student at the School of Architecture and Design (formerly the School of Architecture) at Harbin Institute of Technology, where I earned a Master’s degree in Urban and Rural Planning. Over the past three years, my academic interests have expanded to encompass interdisciplinary areas, including climate change, health equity, social resilience, and the regeneration of social infrastructure.
-    Collaborating with research teams and peers, I have contributed to several peer-reviewed publications. These enriching experiences have sharpened my social investigation skills and enhanced my proficiency in spatial analysis. Through fieldwork and ongoing discussions with distinguished scholars, I have developed critical thinking abilities, adopted rigorous research methodologies, and embraced innovative approaches in my work.
+    I am a student at the School of Architecture and Design (formerly the School of Architecture) at Harbin Institute of Technology, where I earned a Master’s degree in Urban and Rural Planning. Over the past three years, my academic interests have expanded to encompass interdisciplinary areas.
+    Collaborating with research teams and peers, I have contributed to several peer-reviewed publications. These enriching experiences have sharpened my social investigation skills and enhanced my proficiency in spatial analysis. Through ongoing discussions with distinguished scholars, I have developed critical thinking abilities, adopted rigorous research methodologies, and embraced innovative approaches in my work.
 </div>
 
 <section class="container">
@@ -25,7 +25,7 @@ redirect_from:
 Research Interests
 ======
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-My research interests have evolved through three distinct stages. Initially, I concentrated on the impact of global urbanization on socio-environmental conditions in depopulated areas. In my second year, my focus shifted to exploring health and social justice issues faced by vulnerable residents in environmentally disadvantaged regions. Finally, in my third year, I began examining policies related to climate change adaptation, health equity, and the governance of urban regeneration. Each stage of my research has progressively taken me from broader studies on building social resilience in response to environmental change to more specific investigations into residents’ health and the implications of related policies.
+My research interests have evolved through three distinct stages. Initially, I concentrated on the impact of global urbanization on socio-environmental conditions in depopulated areas. In my second year, my focus shifted to exploring health and social justice issues faced by vulnerable residents in environmentally disadvantaged regions. Finally, in my third year, I began examining policies related to climate change adaptation, health equity, and the governance of urban regeneration.
  </div>
 ---
 
