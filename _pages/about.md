@@ -25,7 +25,7 @@ redirect_from:
 Research Interests
 ======
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-My research interests have evolved through three distinct stages. Initially, I concentrated on the impact of global urbanization on socio-environmental conditions in depopulated areas. In my second year, my focus shifted to exploring health and social justice issues faced by vulnerable residents in environmentally disadvantaged regions. Finally, in my third year, I began examining policies related to climate change adaptation, health equity, and the governance of urban regeneration.
+My research interests have evolved through three distinct stages. Initially, I concentrated on the impact of global urbanization on socio-environmental conditions in depopulated areas. In my second year, my focus shifted to exploring health and social justice issues faced by vulnerable residents in environmentally disadvantaged regions. Finally, in my third year, I began examining policies related to climate change adaptation, health inequality, and the governance of urban regeneration.
  </div>
 ---
 
