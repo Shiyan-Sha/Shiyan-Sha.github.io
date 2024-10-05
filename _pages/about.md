@@ -15,7 +15,7 @@ redirect_from:
 <section class="container">
     <section class="row">
 <p class="highlight">
-    <a href="files/Shiyan Sha CV(final).pdf">CV-Shiyan Sha</a>
+    <a href="files/CV-Shiyan Sha.pdf">CV-Shiyan Sha</a>
 </p>
     </section>
 </section>
@@ -35,8 +35,8 @@ My research interests have evolved through three distinct stages. Initially, I c
   </div>
   <div class="col-sm-9" style="flex: 0 0 auto; width: justify;">
     <div>
-      <div class="title 1">[1]<strong>Globalization: </strong>Urban Shrinkage; Social Infrastructure; Social Resilience; Regeneration Policy;  Regional Sustainable Development; Regional Inequality</div>
-      <div class="title 2">[2]<strong>Climate Change:</strong>Health Inequality; Health Risk Assessment; Climate Adaption Policy; Healthcare Service; Health Well-being</div>
+      <div class="title 1"><strong>Globalization: </strong>Social Resilience; Regeneration Policy; Regional Inequality; Urban Shrinkage</div>
+      <div class="title 2"><strong>Climate Change:</strong>Health Inequality; Health Risk Assessment; Climate Adaption Policy; Climate Health Justice</div>
     </div>
   </div>
 </div>
