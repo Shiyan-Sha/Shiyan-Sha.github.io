@@ -83,7 +83,7 @@ Journal Articles
     <div>
       <div class="title">[4] Last defense in climate change: Assessing healthcare inequities in response to compound environmental risk in a megacity in Northern China</div>
       <div class="author">Qi Cheng, <strong>Shiyan Sha(Co-first/Corresponding Author)</strong></div>
-      <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Under Review (After major revision).</em></div>
+      <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Accepted for publication.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Journal</a>
         <strong><i style="color:#7b5aa6">SCIE JCR Q1 (IF=11.7)</i></strong>
